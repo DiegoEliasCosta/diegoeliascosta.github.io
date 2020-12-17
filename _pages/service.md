@@ -4,7 +4,7 @@ title: "Service"
 classes: "wide"
 ---
 
-## Programm Committee (Conferences and Workshops) 
+## Programm Committee 
 
 - Mining Software Repositories (MSR), 2021.
 - International Conference on Program Comprehension (ICPC), RENE track, 2021.
@@ -26,11 +26,11 @@ classes: "wide"
 
 ## Organization Experience
 
-- Organizer of the HGS MathComp 8th Annual Colloquium,  
-    *Sciences - The Alphabet of Nature*, Speyer, Germany, 2016.
+- Organizer of the HGS MathComp 8th Annual Colloquium: 
+    <br> "Sciences - The Alphabet of Nature", Speyer, Germany, 2016.
 
-- Organizer of the HGS MathComp 7th Annual Colloquium,
-    *Applied Sciences: Theory Comes True*, Altleiningen, Germany, 2015.
+- Organizer of the HGS MathComp 7th Annual Colloquium: 
+    <br> "Applied Sciences: Theory Comes True", Altleiningen, Germany, 2015.
 
 
 ## External Reviewer

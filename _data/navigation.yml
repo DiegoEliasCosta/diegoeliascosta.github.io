@@ -5,6 +5,10 @@ main:
     url: /publications/
   - title: "Service"
     url: /service/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Awards"
+    url: /awards/
   # - title: "Categories"
   #   url: /categories/
   - title: "About"
