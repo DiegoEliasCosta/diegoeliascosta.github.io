@@ -32,7 +32,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 analytics:
-  provider: "google-gtag"
+  provider: "custom"
   google:
     tracking_id: "G-517Z5QK480"
     anonymize_ip: false # default

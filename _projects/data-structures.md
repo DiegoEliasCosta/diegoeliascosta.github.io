@@ -19,4 +19,4 @@ There are several possible explanations for these inefficiencies:
      
 2. Projects evolve. "I selected a list for this use-case, but at that time, that was no requirement of searching for elements", any of us could have said. As projects start to evolve and new requirements pour in, developers have to refactor the code to better accommodate the evolution of the software. The problem is, sometimes, this refactoring never happens.    
 
-3. Real application workload is hard to grasp. Developers have 
+3. Real application workload is hard to grasp. Developers have their expectations on what the workload the program their develop will 
