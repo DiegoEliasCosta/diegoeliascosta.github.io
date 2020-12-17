@@ -14,7 +14,7 @@ classes: "wide"
 - Working Conference on Software Visualization (VISSOFT), 2020.
   
 
-## Journal Reviewer} 
+## Journal Reviewer
 
 - Transactions of Software Engineering (TSE), 2020.
 - Empirical Software Engineering (EMSE), 2020.
@@ -41,9 +41,9 @@ classes: "wide"
 - Pacific Rim International Symposium on Dependable Computing (PRDC), 2019.
 - International Conference on Parallel and Distributed Computing (Euro Par), 2019.
 - International Workshop on Software Aging and Rejuvenation (WOSAR), 2019.
-- § International Conf. on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE), 2018.
+- International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE), 2018.
 - Latin-American Symposium on Dependable Computing (LADC), 2018.
-- Internacional Conference on Dependable Systems and Their Applications (DSA), 2018.
+- International Conference on Dependable Systems and Their Applications (DSA), 2018.
 - International Conference on Automation and Computing (ICAC), 2017.
 - International Workshop on Program Debugging (IWPD), 2016.	
 - International Conference on Cloud Engineering (IC2E), 2016.
