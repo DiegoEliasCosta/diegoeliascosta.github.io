@@ -4,7 +4,7 @@ title: "Service"
 classes: "wide"
 ---
 
-## Programm Committee 
+## Programm Committee Member
 
 - Mining Software Repositories (MSR), 2021.
 - International Conference on Program Comprehension (ICPC), RENE track, 2021.
