@@ -8,13 +8,32 @@ author_profile: true
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-I am a postdoctoral researcher at Concordia University, working at the Department of Computer Science and Software Engineering in the [DAS Lab](http://das.encs.concordia.ca/) of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/). Before that, I was doing my PhD at Heidelberg University, in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/) of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/). 
+<br>
+Hi, I am Diego and welcome to my academic space!
+
+I am a postdoctoral researcher at [Concordia University](https://www.concordia.ca/), Canada, working at the Department of Computer Science and Software Engineering in the [DAS Lab](http://das.encs.concordia.ca/) of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/). Before that, I was doing my PhD at Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/) of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/). 
 
 
-I am particularly interested in how we can devise tools that can **reduce the burden on software developers**.
-My research is focused on software engineering and performance engineering related topics, such as:
-- Empirical Software Engineering [EMSE, MSR, TSE]
-- Adaptive data structures 
+I am interested in Software Engineering Research. In a few words, I want to reduce the burden on software developers by tackling aspects related to **software maintenance** and **software performance**. 
+I like to leverage historical project data (e.g., GitHub) through Data Mining methods and apply Machine Learning and Statistical Analysis techniques to understand the problems developers face and provide insights/solutions to alleviate the problems. 
+Some projects I work on:
+- Selecting efficient data structures in Java programs
+- Investigating bad practices in Java benchmarking
+- The challenges of dependency management in software ecosystems
+- Bots in Software Engineering 
+
+For details about my research, please check my [publication list](/publications/).
 
 
-Born in Brazil, I have received my Bachelor and Master of Science degrees at the Federal University of Uberlândia.
+## Education
+
+<i class="fa fa-graduation-cap"></i> Ph.D in Computer Science, 2019
+<br> <span style="color:gray; font-size:.8em;"> Heidelberg University, Germany </span>
+
+<i class="fa fa-graduation-cap"></i> M.Sc in Computer Science, 2014
+<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
+
+<i class="fa fa-graduation-cap"></i> B.Sc in Computer Science, 2011
+<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
+
+

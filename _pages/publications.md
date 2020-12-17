@@ -60,6 +60,12 @@ title: "Publications"
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [SpotJMHBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
 
+- **Diego Costa**, 
+  **Benchmark-driven Software Performance Optimization**,
+  Ph.D. thesis. 2019
+  <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
+
 
 - Juan P. S. Alcocer, Harold C. Jaimes, **Diego Costa**, Alexandre Bergel and Fabian Beck, 
 	**Enhancing Commit Graphs with Visual Runtime Clues.**
