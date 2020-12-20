@@ -24,16 +24,13 @@ Some projects I work on:
 
 For details about my research, please check my [publication list](/publications/).
 
+## Research Interests
 
-## Education
+- Software Engineering
+- Performance Engineering
+- Software Ecosystems
+- Mining Software Repositories
+- Software Development Bots
 
-<i class="fa fa-graduation-cap"></i> Ph.D in Computer Science, 2019
-<br> <span style="color:gray; font-size:.8em;"> Heidelberg University, Germany </span>
-
-<i class="fa fa-graduation-cap"></i> M.Sc in Computer Science, 2014
-<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
-
-<i class="fa fa-graduation-cap"></i> B.Sc in Computer Science, 2011
-<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
 
 
