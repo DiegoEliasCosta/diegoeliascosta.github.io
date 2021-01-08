@@ -41,6 +41,6 @@ I don't have nearly enough time to dedicate to these activities anymore, so I am
   
 - **Videogames.** Videogames was the main reason I ended up choosing Computer Science instead of any other engineering major. My first contact with programming was through the RPG Maker, a platform where we could develop (old-school) RPG games, and sometimes we needed to program in Ruby. Today, I am still fond of RPG and try to play some of them when I have time.
 
-- **Movies and Series.** Fantasy and Scify are my favorite genre, but we watch anything good. Except for horror movies. I can't stand them, and I am no longer 15 where I need to pretend I do. 
+- **Movies and Series.** Fantasy and Scify are my favorite genre, but we watch anything good. Except for horror movies. I can't stand them. 
 
 - **Board games.** This one I picked up more recently in the urge to transport some of the fun with games to the analogic world. I try to play board games with my wife somewhat regularly. 
