@@ -18,6 +18,10 @@ There are several possible explanations for these inefficiencies:
 
 1. High-level abstraction fools the best of us. In Java collections, `ArrayList` provides the convenient method `.contains` that performs the element search in a single method call. It makes perfect sense to search for an element is lists sometimes (e.g., the list is small and search is performed infrequently). Performance, however, is a problem of scale. Once the program is in production and the list starts growing, that high-level method will charge the price for its convenience. 
      
-2. Projects evolve. "I selected a list for this use-case, but at that time, that was no requirement of searching for elements", any of us could have said. As projects start to evolve and new requirements pour in, developers have to refactor the code to better accommodate the evolution of the software. The problem is, sometimes, this refactoring never happens.    
+2. Projects evolve. "I selected a list for this use-case, but at that time, that was no requirement of searching for elements". As projects start to evolve and new requirements pour in, developers have to refactor the code to better accommodate the evolution of the software. The problem is, sometimes, this refactoring never happens.    
 
 3. Real application workload is hard to grasp. Developers have their expectations on what the workload the program their develop will 
+
+### Our research
+
+We have investigated how developers use Java Collections in their programs.

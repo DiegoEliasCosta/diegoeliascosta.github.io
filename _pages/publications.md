@@ -34,6 +34,14 @@ title: "Publications"
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
+## 2021
+
+- Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
+  **Empirical Analysis of Security Vulnerabilities in Python Packages**,
+  in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021, (to appear).
+  <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
+
 
 ## 2020
 
