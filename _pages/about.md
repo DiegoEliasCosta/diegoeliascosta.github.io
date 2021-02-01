@@ -39,7 +39,7 @@ I don't have nearly enough time to dedicate to these activities anymore, so I am
 
 - **Football** A Brazilian that likes football? How original. I used to play football a lot and have always loved the game. I try to watch games from some major league, and I support my local team, Cruzeiro (the greatest of Minas).
   
-- **Videogames.** Videogames was the main reason I ended up choosing Computer Science instead of any other engineering major. My first contact with programming was through the RPG Maker, a platform where we could develop (old-school) RPG games, and sometimes we needed to program in Ruby. Today, I am still fond of RPG and try to play some of them when I have time.
+- **Videogames.** Videogames was the main reason I ended up choosing Computer Science instead of any other engineering major. My first contact with programming was through the RPG Maker, a platform where we could develop (old-school) RPG games, and sometimes needed to program in Ruby. Today, I am still fond of RPG and try to play some of them when I have time.
 
 - **Movies and Series.** Fantasy and Scify are my favorite genre, but we watch anything good. Except for horror movies. I can't stand them. 
 
