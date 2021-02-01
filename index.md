@@ -16,11 +16,6 @@ I am a postdoctoral researcher at [Concordia University](https://www.concordia.c
 
 I am interested in Software Engineering Research. In a few words, I want to reduce the burden on software developers by tackling aspects related to **software maintenance** and **software performance**. 
 I like to leverage historical project data (e.g., GitHub) through Data Mining methods and apply Machine Learning and Statistical Analysis techniques to understand the problems developers face and provide insights/solutions to alleviate the issues. 
-Some projects I work on:
-- Selecting efficient data structures in Java programs
-- Investigating bad practices in Java benchmarking
-- The challenges of dependency management in software ecosystems
-- Bots in Software Engineering 
 
 For details about my research, please check my [publication list](/publications/).
 
