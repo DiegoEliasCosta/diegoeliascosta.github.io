@@ -29,7 +29,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- Feb 2021: Our paper ["Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package"](https://www.researchgate.net/publication/342258694) was accepted at TSE! 
+- Feb 2021: Our paper ["Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package"](https://www.researchgate.net/publication/348973245) was accepted at TSE! 
 - Feb 2021: Our paper "On the Impacts and Implications of Biceps Muscle Fatigue in Human Activity Recognition" was accepted in the Sensors Journal! 
 - Jan 2021: I will be part of the program committee of [ICSME 2021](https://icsme2021.github.io/).
 - Jan 2021: Our paper ["Empirical Analysis of Security Vulnerabilities in Python Packages"](https://twitter.com/DiegoEliasCosta/status/1348684828913369088) got accepted at SANER 2021!
