@@ -5,12 +5,6 @@ title: "Publications"
 ---
 
 ## Pre-prints
-
-- **Diego Costa**, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab.
-	**Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.**
-    2020.
-	<br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2006.09973){:target="_blank"}
 	
 - Ahmad Abdellatif, Khaled Badran, **Diego Costa**, and Emad Shihab.
 	**A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.** 
@@ -41,6 +35,18 @@ title: "Publications"
   in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021, (to appear).
   <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
+
+- **Diego Costa**, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab.
+	**Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.**,
+	in *IEEE Transactions on Software Engineering*, 17 pages, 2021.
+	<br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
+
+- Mohamed Elshafei, **Diego Costa**, Emad Shihab.
+	**On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.**,
+	in the journal Sensors: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. 
+
+
 
 
 ## 2020
