@@ -46,7 +46,7 @@ title: "Publications"
 	**On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.**,
 	in the journal Sensors: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. 
 	<br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.mdpi.com/1424-8220/21/4/1070/pdf){:target="_blank"}
+	<i class="fa fa-file-pdf"></i> [Open-access](https://www.mdpi.com/1424-8220/21/4/1070){:target="_blank"}
 
 
 
