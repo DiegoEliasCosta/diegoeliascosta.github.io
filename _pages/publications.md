@@ -30,6 +30,15 @@ title: "Publications"
 
 ## 2021
 
+- Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab. 
+  **On the Use of Dependabot Security Pull Requests**,
+  In MSR'21: in *International Conference on Mining Software Repositories*, 2021, (to appear).
+  <br> 
+
+- Jasmine Latendresse, Rabe Abdalkareem, **Diego Elias Costa**, Emad Shihab.
+  **How Effective is Continuous Integration in Indicating Single-Statement Bugs?**
+	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021, (to appear).
+
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
   **Empirical Analysis of Security Vulnerabilities in Python Packages**,
   in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021, (to appear).

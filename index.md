@@ -29,8 +29,9 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Feb 2021: Two papers accepted at MSR! Our paper "On the Use of Dependabot Security Pull Requests" was accepted in the Technical track, and "How Effective is Continuous Integration in Indicating Single-Statement Bugs?" was accepted in the Mining Challenge track.
 - Feb 2021: Our paper ["Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package"](https://www.researchgate.net/publication/348973245){:target="_blank"} was accepted at TSE! 
-- Feb 2021: Our paper "On the Impacts and Implications of Biceps Muscle Fatigue in Human Activity Recognition" was accepted in the Sensors Journal! 
+- Feb 2021: Our paper ["On the Impacts and Implications of Biceps Muscle Fatigue in Human Activity Recognition"](https://www.mdpi.com/1424-8220/21/4/1070) was accepted in the Sensors Journal! 
 - Jan 2021: I will be part of the program committee of [ICSME 2021](https://icsme2021.github.io/){:target="_blank"}.
 - Jan 2021: Our paper ["Empirical Analysis of Security Vulnerabilities in Python Packages"](https://twitter.com/DiegoEliasCosta/status/1348684828913369088){:target="_blank"} got accepted at SANER 2021!
 - Dec 2020: I will be part of the program committee of MSR 2021, both in the [Techinal Track](https://2021.msrconf.org/committee/msr-2021-technical-papers-program-committee){:target="_blank"} and the [Registered Reports](https://2021.msrconf.org/committee/msr-2021-registered-reports-program-committee){:target="_blank"} track.
