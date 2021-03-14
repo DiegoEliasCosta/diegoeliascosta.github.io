@@ -29,6 +29,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Mar 2021: I will be part of the Program Committee at [SCAM 2021](http://www.ieee-scam.org/2021/).
 - Mar 2021: I will be part of the Program Committee at [SBES 2021](http://cbsoft2021.joinville.udesc.br/sbes-pesquisa.php).  
 - Feb 2021: Our paper ["On the Use of Dependabot Security Pull Requests"](https://www.researchgate.net/publication/349641251) was accepted at MSR'21!
 - Feb 2021: Our paper ["How Effective is Continuous Integration in Indicating Single-Statement Bugs?"](https://www.researchgate.net/publication/349895921) was accepted at the MSR'21 - Mining Challenge track!
