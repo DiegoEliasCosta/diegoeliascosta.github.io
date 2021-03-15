@@ -23,7 +23,7 @@ title: "Publications"
     2020.
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2009.09019){:target="_blank"}
-	
+
 <!-- 5. Mahmoud Alfadel, **Diego Costa** and Emad Shihab.
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
@@ -34,10 +34,14 @@ title: "Publications"
   **On the Use of Dependabot Security Pull Requests**,
   In MSR'21: in *International Conference on Mining Software Repositories*, 2021, (to appear).
   <br> 
+  <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
 
 - Jasmine Latendresse, Rabe Abdalkareem, **Diego Elias Costa**, Emad Shihab.
   **How Effective is Continuous Integration in Indicating Single-Statement Bugs?**
 	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021, (to appear).
+   <br> 
+   <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
+
 
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
   **Empirical Analysis of Security Vulnerabilities in Python Packages**,
