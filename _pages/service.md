@@ -18,8 +18,9 @@ classes: "wide"
 
 ## Journal Reviewer
 
-- Transactions of Software Engineering (TSE), 2020.
-- Empirical Software Engineering (EMSE), 2020.
+- Transactions of Software Engineering (TSE), 2020, 2021.
+- Empirical Software Engineering (EMSE), 2020, 2021.
+- The Journal of Systems & Software (JSS), 2021. 
 - Information and Software Technology (IST), 2019.
 - IEEE Transactions on Vehicular Technology, 2019.
 - PeerJ Computer Science, 2018.
