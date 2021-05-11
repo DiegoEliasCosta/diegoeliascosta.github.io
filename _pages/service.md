@@ -4,7 +4,7 @@ title: "Service"
 classes: "wide"
 ---
 
-## Programm Committee Member
+## Program Committee Member
 
 - Mining Software Repositories (MSR), 2021.
 - International Conference on Software Maintenance and Evolution (ICSME), 2020, 2021.
