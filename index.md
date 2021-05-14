@@ -9,6 +9,10 @@ author_profile: true
 ---
 
 <br>
+
+**I am in the job market!**
+
+
 Hi, I am Diego and welcome to my academic space!
 
 I am a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working at the Department of Computer Science and Software Engineering in the [DAS Lab](http://das.encs.concordia.ca/){:target="_blank"} of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. Before that, I was doing my PhD at Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
