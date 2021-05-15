@@ -6,12 +6,6 @@ title: "Publications"
 
 ## Pre-prints
 	
-- Ahmad Abdellatif, Khaled Badran, **Diego Costa**, and Emad Shihab.
-	**A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.** 
-    2020.
-	<br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2012.02640){:target="_blank"}
-
 - Abbas Jafari, **Diego Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
 	**Dependency Smells in JavaScript Projects.**
     2020.
@@ -29,6 +23,12 @@ title: "Publications"
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
 ## 2021
+
+- Ahmad Abdellatif, Khaled Badran, **Diego Costa**, and Emad Shihab.
+	**A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**,
+    in *IEEE Transactions on Software Engineering*, 17 pages, 2021.
+	<br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
 
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab. 
   **On the Use of Dependabot Security Pull Requests**,
