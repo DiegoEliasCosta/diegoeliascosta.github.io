@@ -6,23 +6,36 @@ title: "Publications"
 
 ## Pre-prints
 	
-- Abbas Jafari, **Diego Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
+- Abbas Jafari, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
 	**Dependency Smells in JavaScript Projects.**
     2020.
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
-- Mahmoud Alfadel, **Diego Costa**, Mouafak Mokhallalati, Emad Shihab, and Bram Adams.
+- Mahmoud Alfadel, **Diego Elias Costa**, Mouafak Mokhallalati, Emad Shihab, and Bram Adams.
 	**On the Threat of npm Vulnerable Dependencies in Node.js Applications.**
     2020.
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2009.09019){:target="_blank"}
+
+- Suhaib Mujahid, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, Bram Adams, 
+	Aymen Saied. 
+	**Towards Using Package Centrality Trend to IdentifyPackages in Decline.**
+	<br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
+
 
 <!-- 5. Mahmoud Alfadel, **Diego Costa** and Emad Shihab.
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
 ## 2021
+
+- Joshua Nostras, Juan Pablo Sandoval, **Diego Elias Costa**, Alexandre Bergel. 
+	**How do developers use the Java Stream API?**.
+	In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021.
+	<br> 
+   <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/353738678){:target="_blank"}
 
 - Ahmad Abdellatif, Khaled Badran, **Diego Costa**, and Emad Shihab.
 	**A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**,
@@ -32,20 +45,22 @@ title: "Publications"
 
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab. 
   **On the Use of Dependabot Security Pull Requests**,
-  In MSR'21: in *International Conference on Mining Software Repositories*, 2021, (to appear).
+  In MSR'21: in *International Conference on Mining Software Repositories*, 2021.
   <br> 
   <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
 
 - Jasmine Latendresse, Rabe Abdalkareem, **Diego Elias Costa**, Emad Shihab.
   **How Effective is Continuous Integration in Indicating Single-Statement Bugs?**
-	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021, (to appear).
+	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021.
    <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
 
 
+
+
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
   **Empirical Analysis of Security Vulnerabilities in Python Packages**,
-  in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021, (to appear).
+  in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021.
   <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
 

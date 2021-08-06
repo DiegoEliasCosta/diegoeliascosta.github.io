@@ -33,6 +33,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- July 2021: Our paper ["How do developers use the Java Stream API?"](https://www.researchgate.net/publication/353738678) was accepted at ICCSA'21!
 - May 2021: Our paper ["A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering"](https://www.researchgate.net/publication/351417230){:target="_blank"} was accepted at IEEE TSE!
 - Mar 2021: I will be part of the Program Committee at [SCAM 2021](http://www.ieee-scam.org/2021/){:target="_blank"}.
 - Mar 2021: I will be part of the Program Committee at [SBES 2021](http://cbsoft2021.joinville.udesc.br/sbes-pesquisa.php){:target="_blank"}.  
