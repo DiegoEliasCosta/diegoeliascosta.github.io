@@ -6,12 +6,6 @@ title: "Publications"
 
 ## Pre-prints
 	
-- Abbas Jafari, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
-	**Dependency Smells in JavaScript Projects.**
-    2020.
-    <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
-
 - Mahmoud Alfadel, **Diego Elias Costa**, Mouafak Mokhallalati, Emad Shihab, and Bram Adams.
 	**On the Threat of npm Vulnerable Dependencies in Node.js Applications.**
     2020.
@@ -30,6 +24,12 @@ title: "Publications"
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
 ## 2021
+
+- Abbas Jafari, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
+	**Dependency Smells in JavaScript Projects.**
+    in *IEEE Transactions on Software Engineering*, 18 pages, 2021.
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
 - Joshua Nostras, Juan Pablo Sandoval, **Diego Elias Costa**, Alexandre Bergel. 
 	**How do developers use the Java Stream API?**.
@@ -54,9 +54,6 @@ title: "Publications"
 	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021.
    <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
-
-
-
 
 - Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
   **Empirical Analysis of Security Vulnerabilities in Python Packages**,
