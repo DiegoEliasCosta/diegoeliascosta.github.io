@@ -18,6 +18,11 @@ title: "Publications"
 	<br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
 
+- Simon Eismann, **Diego Elias Costa**, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, André van Hoorn, Samuel Kounev.
+   **A Case Study on the Stability and Performance Tests for Serverless Applications**
+   <br>
+   <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.13320){:target="_blank"}
+
 
 <!-- 5. Mahmoud Alfadel, **Diego Costa** and Emad Shihab.
 	``Empirical analysis of security vulnerabilities in python packages''.
