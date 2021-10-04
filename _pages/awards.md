@@ -4,6 +4,7 @@ title: "Grants and Awards"
 #classes: "wide"
 ---
 
+
 **[Horizon Postdoctoral Fellowship](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon.html)** <span style="float:right;"> *2019-21* </span>
     <br> Scholarship awarded for Postdoctoral research in the DAS Lab.  
 
@@ -24,3 +25,7 @@ title: "Grants and Awards"
 
 **Brazilian Ministry of Education (MEC)** <span style="float:right;"> *2008-10* </span> 
     <br> Awarded by the Program of Undergraduate Research and Education. 
+
+## Service Awards
+
+Distinguished reviewer - ICSME <span style="float:right;"> *2021* </span> 

@@ -33,6 +33,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Sep 2021: Honored to have received the award for [Distinguished Reviewer](https://twitter.com/DiegoEliasCosta/status/1444010982389473281){:target="_blank"} at ICSME 2021!
 - Aug 2021: Our paper ["Dependency Smells in JavaScript Projects"](https://arxiv.org/abs/2010.14573){:target="_blank"} was accepted at IEEE TSE!
 - July 2021: Our paper ["How do developers use the Java Stream API?"](https://www.researchgate.net/publication/353738678){:target="_blank"} was accepted at ICCSA'21!
 - May 2021: Our paper ["A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering"](https://www.researchgate.net/publication/351417230){:target="_blank"} was accepted at IEEE TSE!
