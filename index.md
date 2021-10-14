@@ -33,6 +33,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Oct 2021: Our paper "Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals" has been accepter in the Sensors journal!
 - Sep 2021: Honored to have received the award for [Distinguished Reviewer](https://twitter.com/DiegoEliasCosta/status/1444010982389473281){:target="_blank"} at ICSME 2021!
 - Aug 2021: Our paper ["Dependency Smells in JavaScript Projects"](https://arxiv.org/abs/2010.14573){:target="_blank"} was accepted at IEEE TSE!
 - July 2021: Our paper ["How do developers use the Java Stream API?"](https://www.researchgate.net/publication/353738678){:target="_blank"} was accepted at ICCSA'21!
