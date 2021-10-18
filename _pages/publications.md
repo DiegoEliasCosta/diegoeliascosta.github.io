@@ -12,12 +12,6 @@ title: "Publications"
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2009.09019){:target="_blank"}
 
-- Suhaib Mujahid, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, Bram Adams, 
-	Aymen Saied. 
-	**Towards Using Package Centrality Trend to IdentifyPackages in Decline.**
-	<br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
-
 - Simon Eismann, **Diego Elias Costa**, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, André van Hoorn, Samuel Kounev.
    **A Case Study on the Stability and Performance Tests for Serverless Applications**
    <br>
@@ -29,6 +23,12 @@ title: "Publications"
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
 ## 2021
+
+- Suhaib Mujahid, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 
+	**Towards Using Package Centrality Trend to IdentifyPackages in Decline.**
+	in *IEEE Transactions on Engineering Management*, 17 pages, 2021.
+	<br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
 
 - Mahsa Sadat Afzali Arani, **Diego Elias Costa** , Emad Shihab.
   **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** 
