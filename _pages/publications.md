@@ -34,8 +34,7 @@ title: "Publications"
   **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** 
   in the journal Sensors: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. 
 	<br>
-	Preprint soon.
-	<!-- <i class="fa fa-file-pdf"></i> [Pre-print soon](){:target="_blank"} -->
+	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/21/21/6997){:target="_blank"}
 
 - Abbas Jafari, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
 	**Dependency Smells in JavaScript Projects.**
