@@ -17,6 +17,10 @@ title: "Publications"
    <br>
    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.13320){:target="_blank"}
 
+- SayedHassan Khatoonabadi, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab. 
+**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
+   <br>
+   <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447x ){:target="_blank"}
 
 <!-- 5. Mahmoud Alfadel, **Diego Costa** and Emad Shihab.
 	``Empirical analysis of security vulnerabilities in python packages''.
