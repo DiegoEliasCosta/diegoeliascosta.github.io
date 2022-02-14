@@ -26,6 +26,14 @@ title: "Publications"
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
+## 2022
+
+- Mohamed Elshafei, Diego Elias Costa, and Emad Shihab.
+  **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.**
+  in the journal Sensors: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
+  <br>
+	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
+
 ## 2021
 
 - Suhaib Mujahid, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 

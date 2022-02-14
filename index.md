@@ -33,6 +33,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Feb 2022: Our paper ["Toward The Personalization of Biceps Fatigue Detection Model For Gym Activity"](https://www.mdpi.com/1424-8220/22/4/1454) was accepted in the Sensors journal!
 - Jan 2022: I will be part of the Program Committees of [MSR 2022](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee){:target="_blank"}, [ICSME 2022](https://cyprusconferences.org/icsme2022/), and [SCAM 2022](http://www.ieee-scam.org/2022/)!
 - Oct 2021: Our paper ["Towards Using Package Centrality Trend to Identify Packages in Decline"](https://arxiv.org/abs/2107.10168) has been accepted in IEEE Transactions of Engineering Management!
 - Oct 2021: Our paper ["Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals"](https://www.mdpi.com/1424-8220/21/21/6997) has been accepted in the Sensors journal!
