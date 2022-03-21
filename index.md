@@ -33,7 +33,9 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- March 2022: Our paper ["A case study on the stability of performance tests for serverless applications"](https://arxiv.org/pdf/2107.13320.pdf) was accepted in the JSS journal!
+
+- Mar 2022: Our paper ["A case study on the stability of performance tests for serverless applications"](https://arxiv.org/pdf/2107.13320.pdf) was accepted in the JSS journal!
+- Mar 2022: We will present 3 TSE papers at ICSE 2022 as a journal first presentation. Check our their pre-print here: ["Breaking Type Safety in Go"](https://ieeexplore.ieee.org/abstract/document/9350178), ]["Dependency Smells in JavaScript Projects"](https://ieeexplore.ieee.org/abstract/document/9519532), and ["Comparison of Chatbot NLU Platforms"](https://ieeexplore.ieee.org/abstract/document/9426404).    
 - Feb 2022: Our paper ["Toward The Personalization of Biceps Fatigue Detection Model For Gym Activity"](https://www.mdpi.com/1424-8220/22/4/1454) was accepted in the Sensors journal!
 - Jan 2022: I will be part of the Program Committees of [MSR 2022](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee){:target="_blank"}, [ICSME 2022](https://cyprusconferences.org/icsme2022/), and [SCAM 2022](http://www.ieee-scam.org/2022/)!
 - Oct 2021: Our paper ["Towards Using Package Centrality Trend to Identify Packages in Decline"](https://arxiv.org/abs/2107.10168) has been accepted in IEEE Transactions of Engineering Management!
