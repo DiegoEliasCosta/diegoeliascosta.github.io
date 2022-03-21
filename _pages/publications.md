@@ -28,6 +28,12 @@ title: "Publications"
 
 ## 2022
 
+- Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev.
+  **A case study on the stability of performance tests for serverless applications.**
+  in the Journal of Software and Systems, 38 pages, 2022. 
+  <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2107.13320.pdf){:target="_blank"}
+
 - Mohamed Elshafei, Diego Elias Costa, and Emad Shihab.
   **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.**
   in the journal Sensors: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
