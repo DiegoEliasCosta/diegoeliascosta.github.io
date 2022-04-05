@@ -33,7 +33,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-
+- Apr 2022: Our paper ["On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests"](https://arxiv.org/abs/2110.15447) was accepted in the TOSEM journal!
 - Mar 2022: Our paper ["A case study on the stability of performance tests for serverless applications"](https://arxiv.org/pdf/2107.13320.pdf) was accepted in the JSS journal!
 - Mar 2022: We will present 3 TSE papers at ICSE 2022 as a journal first presentation. Check our their pre-print here: 
    - ["Breaking Type Safety in Go"](https://ieeexplore.ieee.org/abstract/document/9350178)
