@@ -17,16 +17,17 @@ title: "Publications"
    <br>
    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.13320){:target="_blank"}
 
-- SayedHassan Khatoonabadi, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab. 
-**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
-   <br>
-   <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447x ){:target="_blank"}
-
 <!-- 5. Mahmoud Alfadel, **Diego Costa** and Emad Shihab.
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
 ## 2022
+
+- SayedHassan Khatoonabadi, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab. 
+**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
+	in the ACM Transactions on Software Engineering and Methodology, 2022.  
+   <br>
+   <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
 - Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev.
   **A case study on the stability of performance tests for serverless applications.**
