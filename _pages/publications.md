@@ -22,17 +22,15 @@ classes: "wide"
 ## 2022
 
 - **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3"> 
-		SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. 
-	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 
-		ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. 
-	</font> <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
+	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	</font> 
     <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
 - **A case study on the stability of performance tests for serverless applications.** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
-  		Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
+  		Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 
   		Journal of Software and Systems (JSS), 38 pages, 2022. 
@@ -41,7 +39,7 @@ classes: "wide"
 
 - **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
-		Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>	
+		Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 
 		Sensors Journal: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
@@ -52,7 +50,7 @@ classes: "wide"
 
 - **Towards Using Package Centrality Trend to IdentifyPackages in Decline.** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
-		Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. <br> 
+		Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
 		IEEE Transactions on Engineering Management, 17 pages, 2021.	
@@ -73,7 +71,7 @@ classes: "wide"
 		Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
     </font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Software Engineering (TSE), 18 pages, 2021. <br>
+		IEEE Transactions on Software Engineering (TSE), 18 pages, 2021.
 	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
