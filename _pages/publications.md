@@ -23,15 +23,15 @@ title: "Publications"
 
 ## 2022
 
-- SayedHassan Khatoonabadi, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab. 
-**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
-	in the ACM Transactions on Software Engineering and Methodology, 2022.  
+- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
+	SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. 
+	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  
    <br>
    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
-- Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev.
-  **A case study on the stability of performance tests for serverless applications.**
-  in the Journal of Software and Systems, 38 pages, 2022. 
+- **A case study on the stability of performance tests for serverless applications.**
+  Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev.
+  Journal of Software and Systems (JSS), 38 pages, 2022. 
   <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2107.13320.pdf){:target="_blank"}
 
