@@ -22,71 +22,122 @@ classes: "wide"
 ## 2022
 
 - **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
-	<i class="fa fa-user-friends"></i> 
-	<font size="3"> SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. </font> <br>
-	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  <br>
+	<i class="fa fa-user-friends"></i> <font size="3"> 
+		SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. 
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 
+		ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. 
+	</font> <br>
     <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
 - **A case study on the stability of performance tests for serverless applications.** <br>
-  Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
-  Journal of Software and Systems (JSS), 38 pages, 2022. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+  		Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 
+  		Journal of Software and Systems (JSS), 38 pages, 2022. 
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2107.13320.pdf){:target="_blank"}
 
 - **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** <br>
-	Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>	
-	Sensors Journal: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>	
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 
+		Sensors Journal: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
 
 ## 2021
 
 - **Towards Using Package Centrality Trend to IdentifyPackages in Decline.** <br>
-	Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. <br> 
-	IEEE Transactions on Engineering Management, 17 pages, 2021.	<br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. <br> 
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		IEEE Transactions on Engineering Management, 17 pages, 2021.	
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
 
 - **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
-	Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. <br>
-  	Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. 
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+  		Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. 
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/21/21/6997){:target="_blank"}
 
 - **Dependency Smells in JavaScript Projects.** <br>
-	Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis. <br>
-    IEEE Transactions on Software Engineering (TSE), 18 pages, 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
+    </font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		IEEE Transactions on Software Engineering (TSE), 18 pages, 2021. <br>
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
 - **How do developers use the Java Stream API?** <br>
-	Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel. <br> 
-	In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021. <br> 
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel. 
+	 </font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021.
+	</font> <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/353738678){:target="_blank"}
 
 - **A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**, <br>
-	Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab. <br>
-    IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab.
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+    	IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. 
+	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
 
 - **On the Use of Dependabot Security Pull Requests** <br>
-	Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
-  	In MSR'21: in *International Conference on Mining Software Repositories*, 2021. <br> 
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
+  	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 
+		In MSR'21: in *International Conference on Mining Software Repositories*, 2021. 
+	</font> <br> 
   	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
 
 - **How Effective is Continuous Integration in Indicating Single-Statement Bugs?** <br>
-	Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab. <br>
-	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021. <br> 
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab. 
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021. 
+	</font> <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
 
 - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
-	Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
-  	IEEE International Conference on Software Analysis, Evolution and Reengineering (ICSME), 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. 
+  	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+	  IEEE International Conference on Software Analysis, Evolution and Reengineering (ICSME), 2021. <br>
+	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
 
 - **Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.** <br>
-	Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab. <br>
-	IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab.
+	 </font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. 
+	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
 
 - **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
-	Mohamed Elshafei, Diego Costa, Emad Shihab. <br>
-	Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. <br>
+	<i class="fa fa-user-friends"></i> <font size="3">
+		Mohamed Elshafei, Diego Costa, Emad Shihab.
+	</font> <br>
+	<i class="fa fa-book"></i> <font size="3"> 	
+		Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. 
+	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-access](https://www.mdpi.com/1424-8220/21/4/1070){:target="_blank"}
 
 
