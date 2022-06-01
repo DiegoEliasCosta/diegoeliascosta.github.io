@@ -28,120 +28,102 @@ classes: "wide"
 	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  <br>
    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
-- **A case study on the stability of performance tests for serverless applications.**
-  Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev.
-  Journal of Software and Systems (JSS), 38 pages, 2022. 
+- **A case study on the stability of performance tests for serverless applications.** <br>
+  Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
+  Journal of Software and Systems (JSS), 38 pages, 2022. <br>
   <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2107.13320.pdf){:target="_blank"}
 
-- Mohamed Elshafei, Diego Elias Costa, and Emad Shihab.
-  **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.**
-  in the journal Sensors: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
-  <br>
+- **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** <br>
+	Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>	
+	Sensors Journal: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
 
 ## 2021
 
-- Suhaib Mujahid, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 
-	**Towards Using Package Centrality Trend to IdentifyPackages in Decline.**
-	in *IEEE Transactions on Engineering Management*, 17 pages, 2021.
-	<br>
+- **Towards Using Package Centrality Trend to IdentifyPackages in Decline.** <br>
+	Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. <br> 
+	IEEE Transactions on Engineering Management, 17 pages, 2021.	<br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
 
-- Mahsa Sadat Afzali Arani, **Diego Elias Costa** , Emad Shihab.
-  **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** 
-  in the journal Sensors: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. 
-	<br>
+- **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
+	Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. <br>
+  	Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/21/21/6997){:target="_blank"}
 
-- Abbas Jafari, **Diego Elias Costa**, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
-	**Dependency Smells in JavaScript Projects.**
-    in *IEEE Transactions on Software Engineering*, 18 pages, 2021.
-    <br>
+- **Dependency Smells in JavaScript Projects.** <br>
+	Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis. <br>
+    IEEE Transactions on Software Engineering (TSE), 18 pages, 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
-- Joshua Nostras, Juan Pablo Sandoval, **Diego Elias Costa**, Alexandre Bergel. 
-	**How do developers use the Java Stream API?**.
-	In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021.
-	<br> 
+- **How do developers use the Java Stream API?** <br>
+	Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel. <br> 
+	In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021. <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/353738678){:target="_blank"}
 
-- Ahmad Abdellatif, Khaled Badran, **Diego Costa**, and Emad Shihab.
-	**A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**,
-    in *IEEE Transactions on Software Engineering*, 17 pages, 2021.
-	<br>
+- **A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**, <br>
+	Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab. <br>
+    IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
 
-- Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab. 
-  **On the Use of Dependabot Security Pull Requests**,
-  In MSR'21: in *International Conference on Mining Software Repositories*, 2021.
-  <br> 
-  <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
+- **On the Use of Dependabot Security Pull Requests** <br>
+	Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
+  	In MSR'21: in *International Conference on Mining Software Repositories*, 2021. <br> 
+  	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
 
-- Jasmine Latendresse, Rabe Abdalkareem, **Diego Elias Costa**, Emad Shihab.
-  **How Effective is Continuous Integration in Indicating Single-Statement Bugs?**
-	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021.
-   <br> 
+- **How Effective is Continuous Integration in Indicating Single-Statement Bugs?** <br>
+	Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab. <br>
+	In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021. <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
 
-- Mahmoud Alfadel, **Diego Elias Costa**, Emad Shihab.
-  **Empirical Analysis of Security Vulnerabilities in Python Packages**,
-  in *IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2021.
-  <br>
+- **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
+	Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
+  	IEEE International Conference on Software Analysis, Evolution and Reengineering (ICSME), 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
 
-- **Diego Costa**, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab.
-	**Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.**,
-	in *IEEE Transactions on Software Engineering*, 17 pages, 2021.
-	<br>
+- **Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.** <br>
+	Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab. <br>
+	IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
 
-- Mohamed Elshafei, **Diego Costa**, Emad Shihab.
-	**On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.**,
-	in the journal Sensors: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. 
-	<br>
+- **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
+	Mohamed Elshafei, Diego Costa, Emad Shihab. <br>
+	Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. <br>
 	<i class="fa fa-file-pdf"></i> [Open-access](https://www.mdpi.com/1424-8220/21/4/1070){:target="_blank"}
-
 
 
 
 ## 2020
 
-- Mohammad Ghanavati, **Diego Costa**, Janos Seboek, David Lo, and Artur Andrzejak.
-    **Memory and resource leak defects and their repairs in Java projects**, 
-    in *Empirical Software Engineering*, vol. 25, 678–718 (2020).
-    <br>
+- **Memory and resource leak defects and their repairs in Java projects** <br>
+	Mohammad Ghanavati, Diego Costa, Janos Seboek, David Lo, and Artur Andrzejak. <br>
+    Empirical Software Engineering journal (EMSE), vol. 25, 678–718 (2020). <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/334709860){:target="_blank"}
 
 
-- Ahmad Abdellatif, **Diego Costa**, Khaled Badran, Rabe Abdalkareem, and Emad Shihab.  
-	**Challenges in Chatbot Development: A Study of Stack Overflow Posts.**
-	In MSR'20: *International Conference on Mining Software Repositories*, 12 pages, 174-185, 2020.
-	<br>
+- **Challenges in Chatbot Development: A Study of Stack Overflow Posts** <br>
+	Ahmad Abdellatif, **Diego Costa**, Khaled Badran, Rabe Abdalkareem, and Emad Shihab. <br>  
+	In MSR'20: *International Conference on Mining Software Repositories*, 12 pages, 174-185, 2020. <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
 
 
 ## 2019
 
-- **Diego Costa**, C. Bezemer, P. Leitner and A. Andrzejak.
-    **What's Wrong With My Benchmark Results? Studying Bad Practices in JMH Benchmarks**, 
-    in *IEEE Transactions on Software Engineering*, 16 pages, Early Access (2019). 
-    <br>
+- **What's Wrong With My Benchmark Results? Studying Bad Practices in JMH Benchmarks** <br> 
+	Diego Costa, C. Bezemer, P. Leitner and A. Andrzejak. <br>
+    IEEE Transactions on Software Engineering (TSE), 16 pages, Early Access (2019). <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [SpotJMHBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
 
-- **Diego Costa**, 
-  **Benchmark-driven Software Performance Optimization**,
-  Ph.D. thesis. 2019
-  <br>
-  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
+- **Benchmark-driven Software Performance Optimization** <br>
+	Diego Costa  <br>
+  	Ph.D. thesis. 2019 <br>
+  	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
 
 
-- Juan P. S. Alcocer, Harold C. Jaimes, **Diego Costa**, Alexandre Bergel and Fabian Beck, 
-	**Enhancing Commit Graphs with Visual Runtime Clues.**
-	In VISSOFT'19: *Working Conference on Software Visualization*,
-	5 pages, 28-32, 2019.
-	<br>
+- **Enhancing Commit Graphs with Visual Runtime Clues.** <br>
+	Juan P. S. Alcocer, Harold C. Jaimes, Diego Costa, Alexandre Bergel and Fabian Beck, <br>
+	In VISSOFT'19: *Working Conference on Software Visualization*, 5 pages, 28-32, 2019. <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
 	
 - Artur Andrzejak, Kevin Kiefer, **Diego Costa**, and Oliver Wenz. 2019. 
