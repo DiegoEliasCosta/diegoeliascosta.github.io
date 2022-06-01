@@ -25,7 +25,7 @@ classes: "wide"
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
-    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
+    <i class="fa fa-file-pdf"></i> <div> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"} </div>
 	</font> 
 
 - **A case study on the stability of performance tests for serverless applications.** <br>
