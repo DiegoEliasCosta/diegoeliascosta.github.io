@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-#classes: "wide"
+classes: "wide"
 ---
 
 ## Pre-prints
@@ -23,10 +23,9 @@ title: "Publications"
 
 ## 2022
 
-- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.**
-	SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. 
-	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  
-   <br>
+- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
+	SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. <br>
+	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  <br>
    <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
 - **A case study on the stability of performance tests for serverless applications.**
