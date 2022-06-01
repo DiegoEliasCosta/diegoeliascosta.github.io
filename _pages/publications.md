@@ -23,7 +23,7 @@ classes: "wide"
 
 - **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
 	<i class="fa-solid fa-user-group"></i> 
-	<font size="1"> SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. </font> <br>
+	<font size="3"> SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab. </font> <br>
 	ACM Transactions on Software Engineering and Methodology (TOSEM), 2022.  <br>
     <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 
