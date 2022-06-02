@@ -21,30 +21,33 @@ classes: "wide"
 
 ## 2022
 
-**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
+**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** 
 <font size="3"> 
 <i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
 <i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
 <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a> <br>
 </font> 
 	
+<br>
 
-**A case study on the stability of performance tests for serverless applications.** <br>
+**A case study on the stability of performance tests for serverless applications.** 
 <font size="3"> 
 <i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
 <i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
 <i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a> <br>
-</font> <br>
+</font> 
 
+<br>
 
-- **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. 
-	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 
-		Sensors Journal: Applications of Body Worn Sensors and Wearables. 
-	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
+**Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** 
+<font size="3"> 
+<i class="fa fa-user-friends"></i>  Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>
+<i class="fa fa-book"></i> Sensors Journal: Applications of Body Worn Sensors and Wearables.  <br>
+<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/22/4/1454" target="_blank">Open-Access</a> <br>
+</font> 
+
+<br>
+
 
 ## 2021
 
