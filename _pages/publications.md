@@ -157,43 +157,56 @@ classes: "wide"
 
 
 - **Benchmark-driven Software Performance Optimization** <br>
-<font size="3"> 
-<i class="fa fa-user-friends"></i> Diego Costa <br>
-<i class="fa fa-book"></i> Ph.D. thesis. 2019 <br>
-<i class="fa fa-file-pdf"></i>  <a href="http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf" target="_blank">Thesis</a> <br>
-</font> <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa <br>
+	<i class="fa fa-book"></i> Ph.D. thesis. 2019 <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
 	  
 
 - **Enhancing Commit Graphs with Visual Runtime Clues.** <br>
-	Juan P. S. Alcocer, Harold C. Jaimes, Diego Costa, Alexandre Bergel and Fabian Beck, <br>
-	In VISSOFT'19: *Working Conference on Software Visualization*, 5 pages, 28-32, 2019. <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Juan P. S. Alcocer, Harold C. Jaimes, Diego Costa, Alexandre Bergel and Fabian Beck, <br>
+	<i class="fa fa-book"></i> In VISSOFT'19: Working Conference on Software Visualization. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/335854393){:target="_blank"}
 	
+
 - **Agile construction of data science DSLs (tool demo).** <br>
-	Artur Andrzejak, Kevin Kiefer, **Diego Costa**, and Oliver Wenz. 2019. <br>
-	In GPCE'19: *ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences*, 27-33, 2019. <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/335868045){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Artur Andrzejak, Kevin Kiefer, **Diego Costa**, and Oliver Wenz. <br>
+	<i class="fa fa-book"></i> In GPCE'19: ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/335868045){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [NLDSL](https://einhornstyle.gitlab.io/nldsl/){:target="_blank"}
-    <i class="fa fa-cog" aria-hidden="true"></i> [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=PVS-IfI-Heidelberg-University-Germany.vscode-nldsl-windows){:target="_blank"}
+	<i class="fa fa-cog" aria-hidden="true"></i> [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=PVS-IfI-Heidelberg-University-Germany.vscode-nldsl-windows){:target="_blank"}
+
+
 
 ## 2018
 
 - **CollectionSwitch: a framework for efficient and dynamic collection selection.** <br>
-	Diego Costa and Artur Andrzejak. <br>
-	In CGO'18: *International Symposium on Code Generation and Optimization*, 11 pages, 16–26. 2018. <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/323230033){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa and Artur Andrzejak. <br>
+	<i class="fa fa-book"></i> In CGO'18: International Symposium on Code Generation and Optimization <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/323230033){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [CollectionSwitch](https://github.com/DiegoEliasCosta/collectionSwitch){:target="_blank"}
 
 
 - **Memory and resource leak defects in Java Projects: an empirical study.** <br>
-	Mohammadreza Ghanavati, Diego Costa, Artur Andrzejak, and Janos Seboek. <br>
-	In ICSE-C'18: *International Conference on Software Engineering: Companion Proceeedings*, 2 pages, 410–411, 2018. <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mohammadreza Ghanavati, Diego Costa, Artur Andrzejak, and Janos Seboek. <br>
+	<i class="fa fa-book"></i> In ICSE-C'18: International Conference on Software Engineering: Companion Proceeedings. <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/323477150){:target="_blank"}
 
 
 - **Heterogeneous subgraph features for information networks.** <br>
-	Andreas Spitz, Diego Costa, Kai Chen, Jan Greulich, Johanna Geiß, Stefan Wiesberg, and Michael Gertz. <br>
-	In GRADES-NDA '18: *ACM SIGMOD Joint International Workshop on Graph Data Management Experiences \& Systems and Network Data Analytics*, 9 pages, 71-79, 2018. 	<br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Andreas Spitz, Diego Costa, Kai Chen, Jan Greulich, Johanna Geiß, Stefan Wiesberg, and Michael Gertz. <br>
+	<i class="fa fa-book"></i> In GRADES-NDA '18: ACM SIGMOD Joint International Workshop on Graph Data Management Experiences \& Systems and Network Data Analytics <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/325591871){:target="_blank"}
 	<i class="fa fa-globe" aria-hidden="true"></i> [Website](https://dbs.ifi.uni-heidelberg.de/resources/hsgf/){:target="_blank"}
 	
@@ -201,35 +214,46 @@ classes: "wide"
 ## 2017
 
 - **Empirical Study of Usage and Performance of Java Collections.** <br>
-	Diego Costa, Artur Andrzejak, Janos Seboek, and David Lo. <br> 		
-	In ICPE'17: *ACM/SPEC on International Conference on Performance Engineering*, 12 pages, 389-400, 2017. <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa, Artur Andrzejak, Janos Seboek, and David Lo. <br>
+	<i class="fa fa-book"></i> In ICPE'17: ACM/SPEC on International Conference on Performance Engineering. <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Open-Access](https://dl.acm.org/doi/10.1145/3030207.3030221){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [CollectionBench](https://github.com/DiegoEliasCosta/CollectionsBench){:target="_blank"}
+	
 
 	
 ## 2016
 
 - **ORPLocator: Identifying Read Points of Configuration Options via Static Analysis.** <br>
-	Zhen Dong, Artur Andrzejak, David Lo and Diego Costa, <br> 
-	In ISSRE'16: *International Symposium on Software Reliability Engineering*, 11 pages, 185-195, 2016. <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Zhen Dong, Artur Andrzejak, David Lo and Diego Costa. <br>
+	<i class="fa fa-book"></i> In ISSRE'16: International Symposium on Software Reliability Engineering. <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/307429820){:target="_blank"}
 
 
 ## 2015
 
 - **Characterization of Dynamic Memory Allocations in Real-World Applications: An Experimental Study.** <br>
-	Diego Costa and Rivalino Matias Jr, <br>
-	In MASCOTS'15:  *IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems*, 9 pages, 93-101, 2015. <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa and Rivalino Matias Jr. <br>
+	<i class="fa fa-book"></i> In MASCOTS'15: IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/278392781){:target="_blank"}
-
+	
 
 - **A Systematic Differential Analysis for Fast and Robust Detection of Software Aging.** <br>
-	Rivalino Matias, Artur Andrzejak, Fumio Machida, Diego Costa and Kishor Trivedi, <br>
-	In SRDS'14: *IEEE International Symposium on Reliable Distributed Systems*, 10 pages, 311-320, 2014. <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/263450326){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Rivalino Matias, Artur Andrzejak, Fumio Machida, Diego Costa and Kishor Trivedi. <br>
+	<i class="fa fa-book"></i> In SRDS'14: IEEE International Symposium on Reliable Distributed Systems. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/263450326){:target="_blank"}
 
 
 - **Experimental and theoretical analyses of memory allocation algorithms.** <br>
-	Diego Costa, Rivalino Matias, Marcia Fernandes, and Lucio Borges.  <br>
-	In SAC'14: *ACM Symposium on Applied Computing*, 2 pages, 1545–1546. <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa, Rivalino Matias, Marcia Fernandes, and Lucio Borges. <br>
+	<i class="fa fa-book"></i> In SAC'14: ACM Symposium on Applied Computing <br>
+	</font> 
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/259043057){:target="_blank"}
