@@ -59,7 +59,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Engineering Management.	 <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
-
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.5003443){:target="_blank"}
 
 - **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
 	<font size="3"> 
@@ -74,6 +74,8 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE). <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.4701640){:target="_blank"}
+
 
 - **How do developers use the Java Stream API?** <br>
 	<font size="3"> 
@@ -88,6 +90,8 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE).  <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.4734080){:target="_blank"}
+
 
 - **On the Use of Dependabot Security Pull Requests** <br>
 	<font size="3"> 
@@ -95,6 +99,8 @@ classes: "wide"
 	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories.  <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.4437290){:target="_blank"}
+
 
 - **How Effective is Continuous Integration in Indicating Single-Statement Bugs?** <br>
 	<font size="3"> 
@@ -102,7 +108,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories - Mining Challenge track.  <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
-
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.4606679){:target="_blank"}
 
 - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
 	<font size="3"> 
@@ -110,6 +116,7 @@ classes: "wide"
 	<i class="fa fa-book"></i>  ICSME: IEEE International Conference on Software Analysis, Evolution and Reengineering. <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.4158611){:target="_blank"}
 
 
 - **Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.** <br>
@@ -118,6 +125,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE), 17 pages, 2021.  <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.3871931){:target="_blank"}
 
 
 - **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
@@ -145,6 +153,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> In MSR'20: *International Conference on Mining Software Repositories*, 12 pages, 174-185, 2020. <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.3610714){:target="_blank"}
 
 
 ## 2019
@@ -156,6 +165,8 @@ classes: "wide"
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"> </i> [SpotJMGBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.3610714){:target="_blank"}
+	<i class="fa fa-video"></i> [Video](https://youtu.be/s8Nb7c75j_Y){:target="_blank"}
 
 
 - **Benchmark-driven Software Performance Optimization** <br>
