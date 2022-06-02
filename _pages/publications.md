@@ -66,7 +66,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition.  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/21/21/6997" target="_blank">Open-Access</a> 
 	</font> 
-
+	&ensp;
 
 - **Dependency Smells in JavaScript Projects.** <br>
 	<font size="3"> 
@@ -74,7 +74,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE). <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2010.14573" target="_blank">Pre-print</a> 
 	</font> 
-
+	&ensp;
 
 - **How do developers use the Java Stream API?** <br>
 	<font size="3"> 
@@ -82,6 +82,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> In ICCSA'21: International Conference on Computational Science and its Applications. <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/353738678" target="_blank">Pre-print</a> 
 	</font> 
+	&ensp;
 
 - **A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**, <br>
 	<font size="3"> 
@@ -89,7 +90,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE).  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/351417230" target="_blank">Pre-print</a> 
 	</font> 
-
+	&ensp;
 
 - **On the Use of Dependabot Security Pull Requests** <br>
 	<font size="3"> 
