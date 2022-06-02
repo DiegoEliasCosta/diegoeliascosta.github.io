@@ -21,28 +21,28 @@ classes: "wide"
 
 ## 2022
 
-- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
-	<font size="3"> 
-	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
-	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
-    <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a>
-	</font> 
+**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
+<font size="3"> 
+<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
+<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+<i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a> <br>
+</font> 
+	
 
-- **A case study on the stability of performance tests for serverless applications.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-  		Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. 
-	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 
-  		Journal of Software and Systems (JSS), 38 pages, 2022. 
-	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2107.13320.pdf){:target="_blank"}
+**A case study on the stability of performance tests for serverless applications.** <br>
+<font size="3"> 
+<i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
+<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
+<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a> <br>
+</font> <br>
+
 
 - **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
 		Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 
-		Sensors Journal: Applications of Body Worn Sensors and Wearables, 24 pages, 2022. 
+		Sensors Journal: Applications of Body Worn Sensors and Wearables. 
 	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
 
@@ -53,7 +53,7 @@ classes: "wide"
 		Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Engineering Management, 17 pages, 2021.	
+		IEEE Transactions on Engineering Management.	
 	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
 
@@ -62,7 +62,7 @@ classes: "wide"
 		Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-  		Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition, 22 pages. 2021. 
+  		Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition. 
 	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/21/21/6997){:target="_blank"}
 
@@ -71,7 +71,7 @@ classes: "wide"
 		Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
     </font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Software Engineering (TSE), 18 pages, 2021.
+		IEEE Transactions on Software Engineering (TSE).
 	</font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
 
@@ -80,7 +80,7 @@ classes: "wide"
 		Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel. 
 	 </font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		In ICCSA'21: International Conference on Computational Science and its Applications. 13 pages. 2021.
+		In ICCSA'21: International Conference on Computational Science and its Applications.
 	</font> <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/353738678){:target="_blank"}
 
@@ -89,16 +89,16 @@ classes: "wide"
 		Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab.
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-    	IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. 
+    	IEEE Transactions on Software Engineering (TSE). 
 	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
 
 - **On the Use of Dependabot Security Pull Requests** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
-		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
+		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab.
   	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 
-		In MSR'21: in *International Conference on Mining Software Repositories*, 2021. 
+		In MSR'21: in International Conference on Mining Software Repositories. 
 	</font> <br> 
   	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
 
@@ -107,7 +107,7 @@ classes: "wide"
 		Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab. 
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		In MSR'21: in *International Conference on Mining Software Repositories - Mining Challenge track*, 2021. 
+		In MSR'21: in International Conference on Mining Software Repositories - Mining Challenge track. 
 	</font> <br> 
    <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
 
@@ -116,7 +116,7 @@ classes: "wide"
 		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. 
   	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-	  IEEE International Conference on Software Analysis, Evolution and Reengineering (ICSME), 2021. <br>
+	  ICSME: IEEE International Conference on Software Analysis, Evolution and Reengineering.
 	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
 
@@ -134,7 +134,7 @@ classes: "wide"
 		Mohamed Elshafei, Diego Costa, Emad Shihab.
 	</font> <br>
 	<i class="fa fa-book"></i> <font size="3"> 	
-		Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors, 21 pages. 2021. 
+		Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors. 
 	 </font> <br>
 	<i class="fa fa-file-pdf"></i> [Open-access](https://www.mdpi.com/1424-8220/21/4/1070){:target="_blank"}
 
@@ -158,7 +158,7 @@ classes: "wide"
 
 - **What's Wrong With My Benchmark Results? Studying Bad Practices in JMH Benchmarks** <br> 
 	Diego Costa, C. Bezemer, P. Leitner and A. Andrzejak. <br>
-    IEEE Transactions on Software Engineering (TSE), 16 pages, Early Access (2019). <br>
+    IEEE Transactions on Software Engineering (TSE).  <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [SpotJMHBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
 
