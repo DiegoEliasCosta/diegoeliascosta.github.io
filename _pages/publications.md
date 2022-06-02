@@ -37,6 +37,7 @@ classes: "wide"
 	<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i>  [Pre-print](https://arxiv.org/abs/2107.13320){:target="_blank"}
+	<i class="fa fa-database"></i> [Replication Package](https://github.com/ServerlessLoadTesting/ReplicationPackage){:target="_blank"}
 	
 	<!-- <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a>  -->
 	
