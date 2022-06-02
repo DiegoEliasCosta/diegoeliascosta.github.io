@@ -44,9 +44,8 @@ classes: "wide"
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>
 	<i class="fa fa-book"></i> Sensors Journal: Applications of Body Worn Sensors and Wearables.  <br>
-	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/22/4/1454" target="_blank">Open-Access</a> 
 	</font> 
-
+	<i class="fa fa-file-pdf"></i>  [Open-Access](https://www.mdpi.com/1424-8220/22/4/1454){:target="_blank"}
 <br>
 
 
@@ -57,6 +56,8 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied.  <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Engineering Management.	 <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.10168" target="_blank">Pre-print</a> 
+	</font> 
+	&ensp;
 
 
 - **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
