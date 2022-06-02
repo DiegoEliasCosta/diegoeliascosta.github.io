@@ -108,61 +108,67 @@ classes: "wide"
 
 
 - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. 
-  	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-	  ICSME: IEEE International Conference on Software Analysis, Evolution and Reengineering.
-	 </font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348392851){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mahmoud Alfadel, Diego Elias Costa, Emad Shihab.  <br>
+	<i class="fa fa-book"></i>  ICSME: IEEE International Conference on Software Analysis, Evolution and Reengineering. <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/348392851" target="_blank">Pre-print</a> <br>
+	</font> <br>
+
 
 - **Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab.
-	 </font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Software Engineering (TSE), 17 pages, 2021. 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab. <br>
+	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE), 17 pages, 2021.  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/348973245" target="_blank">Pre-print</a> <br>
 	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
+
 
 - **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Mohamed Elshafei, Diego Costa, Emad Shihab.
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mohamed Elshafei, Diego Costa, Emad Shihab.  <br>
+	<i class="fa fa-book"></i> Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors. <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/21/4/1070" target="_blank">Open-access</a> <br>
 	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors. 
-	 </font> <br>
-	<i class="fa fa-file-pdf"></i> [Open-access](https://www.mdpi.com/1424-8220/21/4/1070){:target="_blank"}
+
 
 
 
 ## 2020
 
 - **Memory and resource leak defects and their repairs in Java projects** <br>
-	Mohammad Ghanavati, Diego Costa, Janos Seboek, David Lo, and Artur Andrzejak. <br>
-    Empirical Software Engineering journal (EMSE), vol. 25, 678–718 (2020). <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/334709860){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mohammad Ghanavati, Diego Costa, Janos Seboek, David Lo, and Artur Andrzejak.  <br>
+	<i class="fa fa-book"></i> Empirical Software Engineering journal (EMSE), vol. 25, 678–718. <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/334709860" target="_blank">Pre-print</a> <br>
+	</font> <br>
 
 
 - **Challenges in Chatbot Development: A Study of Stack Overflow Posts** <br>
-	Ahmad Abdellatif, **Diego Costa**, Khaled Badran, Rabe Abdalkareem, and Emad Shihab. <br>  
-	In MSR'20: *International Conference on Mining Software Repositories*, 12 pages, 174-185, 2020. <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Ahmad Abdellatif, Diego Costa, Khaled Badran, Rabe Abdalkareem, and Emad Shihab.  <br>
+	<i class="fa fa-book"></i> In MSR'20: *International Conference on Mining Software Repositories*, 12 pages, 174-185, 2020. <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/339954158" target="_blank">Pre-print</a> <br>
+	</font> <br>
 
 
 ## 2019
 
 - **What's Wrong With My Benchmark Results? Studying Bad Practices in JMH Benchmarks** <br> 
-	Diego Costa, C. Bezemer, P. Leitner and A. Andrzejak. <br>
-    IEEE Transactions on Software Engineering (TSE).  <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> [SpotJMHBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>Diego Costa, C. Bezemer, P. Leitner and A. Andrzejak.   <br>
+	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE). <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/333825812" target="_blank">Pre-print</a> 
+	<i class="fab fa-github" aria-hidden="true"> <a href="https://github.com/DiegoEliasCosta/spotjmhbugs" target="_blank">SpotJMHBugs</a> 
+	</font> <br>
+
 
 - **Benchmark-driven Software Performance Optimization** <br>
-	Diego Costa  <br>
-  	Ph.D. thesis. 2019 <br>
-  	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
-
+<font size="3"> 
+<i class="fa fa-user-friends"></i> Diego Costa <br>
+<i class="fa fa-book"></i> Ph.D. thesis. 2019 <br>
+<i class="fa fa-file-pdf"></i>  <a href="http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf" target="_blank">Thesis</a> <br>
+</font> <br>
+	  
 
 - **Enhancing Commit Graphs with Visual Runtime Clues.** <br>
 	Juan P. S. Alcocer, Harold C. Jaimes, Diego Costa, Alexandre Bergel and Fabian Beck, <br>
