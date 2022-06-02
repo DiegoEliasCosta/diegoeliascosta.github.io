@@ -21,7 +21,7 @@ classes: "wide"
 
 ## 2022
 
-- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** 
+- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
@@ -30,7 +30,7 @@ classes: "wide"
 	
 <br>
 
-- **A case study on the stability of performance tests for serverless applications.** 
+- **A case study on the stability of performance tests for serverless applications.**  <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
 	<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
@@ -39,7 +39,7 @@ classes: "wide"
 
 <br>
 
-- **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** 
+- **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.**  <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>
 	<i class="fa fa-book"></i> Sensors Journal: Applications of Body Worn Sensors and Wearables.  <br>
@@ -56,7 +56,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied.  <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Engineering Management.	 <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.10168" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font>
 
 
 - **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
@@ -64,7 +64,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. <br>
 	<i class="fa fa-book"></i> Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition.  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/21/21/6997" target="_blank">Open-Access</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **Dependency Smells in JavaScript Projects.** <br>
@@ -72,7 +72,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis. <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE). <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2010.14573" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **How do developers use the Java Stream API?** <br>
@@ -80,15 +80,14 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel.  <br>
 	<i class="fa fa-book"></i> In ICCSA'21: International Conference on Computational Science and its Applications. <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/353738678" target="_blank">Pre-print</a> <br>
-	</font> <br>
-
+	</font> 
 
 - **A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**, <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i> Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab. <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE).  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/351417230" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **On the Use of Dependabot Security Pull Requests** <br>
@@ -96,7 +95,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
 	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories.  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/349641251" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **How Effective is Continuous Integration in Indicating Single-Statement Bugs?** <br>
@@ -104,7 +103,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab.   <br>
 	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories - Mining Challenge track.  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/349895921" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
@@ -112,7 +111,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Mahmoud Alfadel, Diego Elias Costa, Emad Shihab.  <br>
 	<i class="fa fa-book"></i>  ICSME: IEEE International Conference on Software Analysis, Evolution and Reengineering. <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/348392851" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package.** <br>
@@ -120,7 +119,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab. <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE), 17 pages, 2021.  <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/348973245" target="_blank">Pre-print</a> <br>
-	</font> <br>
+	</font> 
 
 
 - **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
@@ -128,7 +127,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i> Mohamed Elshafei, Diego Costa, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> Sensors Journal: Physical Human Activity Recognition Using Wearable Sensors. <br>
 	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/21/4/1070" target="_blank">Open-access</a> <br>
-	</font> <br>
+	</font> 
 
 
 
