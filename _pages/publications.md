@@ -123,11 +123,10 @@ classes: "wide"
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i> Diego Costa, Suhaib Mujahid, Rabe Abdalkareem, and Emad Shihab. <br>
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE).  <br>
-	<i class="fa fa-video"></i> Selected to be presented at ICSE'22 as a Journal first. [Video](https://youtu.be/ln_Zemaa68o){:target="_blank"} <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/348973245){:target="_blank"}
 	<i class="fa fa-database"></i> [Replication Package](https://doi.org/10.5281/zenodo.3871931){:target="_blank"}
-
+	<i class="fa fa-video"></i>  [Video](https://youtu.be/ln_Zemaa68o){:target="_blank"} <br>
 
 - **On the Impact of Biceps Muscle Fatigue in Human Activity Recognition.** <br>
 	<font size="3"> 
