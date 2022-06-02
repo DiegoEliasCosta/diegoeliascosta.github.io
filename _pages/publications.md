@@ -21,30 +21,30 @@ classes: "wide"
 
 ## 2022
 
-**On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** 
-<font size="3"> 
-<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
-<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
-<i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a> <br>
-</font> 
+- **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
+	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	<i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a> <br>
+	</font> 
 	
 <br>
 
-**A case study on the stability of performance tests for serverless applications.** 
-<font size="3"> 
-<i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
-<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
-<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a> <br>
-</font> 
+- **A case study on the stability of performance tests for serverless applications.** 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
+	<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a> <br>
+	</font> 
 
 <br>
 
-**Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** 
-<font size="3"> 
-<i class="fa fa-user-friends"></i>  Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>
-<i class="fa fa-book"></i> Sensors Journal: Applications of Body Worn Sensors and Wearables.  <br>
-<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/22/4/1454" target="_blank">Open-Access</a> <br>
-</font> 
+- **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.** 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Mohamed Elshafei, Diego Elias Costa, and Emad Shihab. <br>
+	<i class="fa fa-book"></i> Sensors Journal: Applications of Body Worn Sensors and Wearables.  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/22/4/1454" target="_blank">Open-Access</a> <br>
+	</font> 
 
 <br>
 
@@ -52,67 +52,60 @@ classes: "wide"
 ## 2021
 
 - **Towards Using Package Centrality Trend to IdentifyPackages in Decline.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied. 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, Bram Adams, Aymen Saied.  <br>
+	<i class="fa fa-book"></i> IEEE Transactions on Engineering Management.	 <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.10168" target="_blank">Pre-print</a> <br>
 	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Engineering Management.	
-	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2107.10168){:target="_blank"}
+
 
 - **Human Activity Recognition: A Comparative Study to Assess the Contribution Level of Accelerometer, ECG, and PPG Signals** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mahsa Sadat Afzali Arani, Diego Elias Costa , Emad Shihab. <br>
+	<i class="fa fa-book"></i> Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition.  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.mdpi.com/1424-8220/21/21/6997" target="_blank">Open-Access</a> <br>
 	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-  		Sensors Journal: Sensors Technology and Machine Learning for Human Activity Recognition. 
-	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Open-Access](https://www.mdpi.com/1424-8220/21/21/6997){:target="_blank"}
+
 
 - **Dependency Smells in JavaScript Projects.** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis.
-    </font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		IEEE Transactions on Software Engineering (TSE).
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab, and Nikolaos Tsantalis. <br>
+	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE). <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2010.14573" target="_blank">Pre-print</a> <br>
 	</font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2010.14573){:target="_blank"}
+
 
 - **How do developers use the Java Stream API?** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel. 
-	 </font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		In ICCSA'21: International Conference on Computational Science and its Applications.
-	</font> <br> 
-   <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/353738678){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Joshua Nostras, Juan Pablo Sandoval, Diego Elias Costa, Alexandre Bergel.  <br>
+	<i class="fa fa-book"></i> In ICCSA'21: International Conference on Computational Science and its Applications. <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/353738678" target="_blank">Pre-print</a> <br>
+	</font> <br>
+
 
 - **A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.**, <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab.
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Ahmad Abdellatif, Khaled Badran, Diego Costa, and Emad Shihab. <br>
+	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering (TSE).  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/351417230" target="_blank">Pre-print</a> <br>
 	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-    	IEEE Transactions on Software Engineering (TSE). 
-	 </font> <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/351417230){:target="_blank"}
+
 
 - **On the Use of Dependabot Security Pull Requests** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Mahmoud Alfadel, Diego Elias Costa, Emad Shihab.
-  	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 
-		In MSR'21: in International Conference on Mining Software Repositories. 
-	</font> <br> 
-  	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349641251){:target="_blank"}
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Mahmoud Alfadel, Diego Elias Costa, Emad Shihab. <br>
+	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories.  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/349641251" target="_blank">Pre-print</a> <br>
+	</font> <br>
+
 
 - **How Effective is Continuous Integration in Indicating Single-Statement Bugs?** <br>
-	<i class="fa fa-user-friends"></i> <font size="3">
-		Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab. 
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i> Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, Emad Shihab.   <br>
+	<i class="fa fa-book"></i> In MSR'21: in International Conference on Mining Software Repositories - Mining Challenge track.  <br>
+	<i class="fa fa-file-pdf"></i>  <a href="https://www.researchgate.net/publication/349895921" target="_blank">Pre-print</a> <br>
 	</font> <br>
-	<i class="fa fa-book"></i> <font size="3"> 	
-		In MSR'21: in International Conference on Mining Software Repositories - Mining Challenge track. 
-	</font> <br> 
-   <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/349895921){:target="_blank"}
+
 
 - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
 	<i class="fa fa-user-friends"></i> <font size="3">
