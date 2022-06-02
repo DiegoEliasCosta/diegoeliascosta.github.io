@@ -25,19 +25,20 @@ classes: "wide"
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
-	<i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2110.15447" target="_blank">Pre-print</a> 
 	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"}
 	
-<br>
+	
 
 - **A case study on the stability of performance tests for serverless applications.**  <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i> Simon Eismann, Diego Elias Costa, Lizhi Liao, Cor-Paul Bezemer, Weiyi Shang, Andre van Hoorn, Samuel Kounev. <br>
 	<i class="fa fa-book"></i> Journal of Software and Systems (JSS). <br>
-	<i class="fa fa-file-pdf"></i>  <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a> 
 	</font> 
-
-<br>
+	<i class="fa fa-file-pdf"></i>  [Pre-print](https://arxiv.org/abs/2107.13320){:target="_blank"}
+	
+	<!-- <a href="https://arxiv.org/abs/2107.13320" target="_blank">Pre-print</a>  -->
+	
 
 - **Toward the Personalization of Biceps Fatigue Detection Model For Gym Activity: An Approach to Utilize Wearables’ Data From The Crowd.**  <br>
 	<font size="3"> 
