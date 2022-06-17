@@ -21,6 +21,16 @@ classes: "wide"
 
 ## 2022
 
+- **Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Stan Zajdel, Diego Elias Costa, Hafedh Mili.  <br>
+	<i class="fa fa-book"></i> In SPLC'22: International Systems and Software Product Line Conference, 2022. <br>
+	</font> 
+	Pre-print soon. 
+	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2110.15447){:target="_blank"} -->
+	<!-- <i class="fa fa-database"></i> [Dataset](https://doi.org/10.5281/zenodo.4892300){:target="_blank"} -->
+
+
 - **On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests.** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  SayedHassan Khatoonabadi, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab.  <br>
