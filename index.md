@@ -30,7 +30,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- Jun 2022: Our paper "Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems" was accepted in the SPLC conference! Stay tuned for the pre-print!
+- Jun 2022: Our paper ["Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems"](https://arxiv.org/abs/2206.10358) was accepted in the SPLC conference! 
 - Apr 2022: Our paper ["On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests"](https://arxiv.org/abs/2110.15447) was accepted in the TOSEM journal!
 - Mar 2022: Our paper ["A case study on the stability of performance tests for serverless applications"](https://arxiv.org/pdf/2107.13320.pdf) was accepted in the JSS journal!
 - Mar 2022: We will present 3 TSE papers at ICSE 2022 as a journal first presentation. Check our their pre-print here: 
