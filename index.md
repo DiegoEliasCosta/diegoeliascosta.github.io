@@ -30,6 +30,8 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- July 2022: Our paper ["Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM"] was accepted in the ASE conference! Pre-print coming soon.
+- July 2022: I will be the co-chair of the Data Challenge Track of ICPE 2023! Stay tuned for more info. 
 - Jun 2022: Our paper ["Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems"](https://arxiv.org/abs/2206.10358) was accepted in the SPLC conference! 
 - Apr 2022: Our paper ["On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests"](https://arxiv.org/abs/2110.15447) was accepted in the TOSEM journal!
 - Mar 2022: Our paper ["A case study on the stability of performance tests for serverless applications"](https://arxiv.org/pdf/2107.13320.pdf) was accepted in the JSS journal!

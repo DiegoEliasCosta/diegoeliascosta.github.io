@@ -4,23 +4,28 @@ title: "Service"
 classes: "wide"
 ---
 
+## Chairing
+
+- Co-chair of the Data Challenge Track at ICPE, 2023
+
 ## Program Committee Member
 
-- Mining Software Repositories (MSR), 2021, 2022.
-- International Conference on Software Analysis, Evolution and Reengineering, Tool track, 2022.
-- International Conference on Software Maintenance and Evolution (ICSME), 2020, 2021.
+- Mining Software Repositories (MSR), 2021 - 22.
+- International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
+- International Conference on Software Maintenance and Evolution (ICSME), 2020 - 22.
+- International Working Conference on Source Code Analysis and Manipulation (SCAM), 2021 - 22.
 - International Conference on Program Comprehension (ICPC), RENE track, 2021.
 - International Conference on Performance Engineering (ICPE), Poster and Demo tracks, 2021.
-- International Working Conference on Source Code Analysis and Manipulation (SCAM), 2021.
-- Brazilian Symposium Symposium on Software Engineering (SBES), 2021.
+- Brazilian Symposium Symposium on Software Engineering (SBES), 2021 - 22.
 - International Workshop on Bots in Software Engineering (BotSE), 2020 - 2021. 
 - Working Conference on Software Visualization (VISSOFT), 2020.
   
 
 ## Journal Reviewer
 
-- Transactions of Software Engineering (TSE), 2020, 2021.
+- Transactions of Software Engineering (TSE), 2020 - 22.
 - Empirical Software Engineering (EMSE), 2020, 2021.
+- IEEE Software, 2022
 - The Journal of Systems & Software (JSS), 2021. 
 - Information and Software Technology (IST), 2019.
 - IEEE Transactions on Vehicular Technology, 2019.
