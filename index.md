@@ -12,7 +12,9 @@ author_profile: true
 
 Hi, I am Diego and welcome to my academic space!
 
-I am a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working at the Department of Computer Science and Software Engineering in the [DAS Lab](http://das.encs.concordia.ca/){:target="_blank"} of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. Before that, I was doing my PhD at Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
+I am an assistant professor in the Computer Science department at [UQAM](www.uqam.ca) in Montréal, Canada. I am also part of the [LATECE](http://latece.uqam.ca/) reserch group. 
+
+Before that, I was a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working with Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. I received my PhD from Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
 
 
 I am interested in Software Engineering Research. In a few words, I want to reduce the burden on software developers by tackling aspects related to **software maintenance** and **software performance**. 
@@ -30,6 +32,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Aug 2022: New chapter of my academic career! I will join the Computer Science Department of Université du Québec à Montréal (UQAM) as a tenure-track assistant professor!   
 - July 2022: Our paper ["Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM"](https://arxiv.org/pdf/2207.14711.pdf) was accepted in the ASE conference! Pre-print coming soon.
 - July 2022: I will be the co-chair of the Data Challenge Track of ICPE 2023! Stay tuned for more info. 
 - Jun 2022: Our paper ["Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems"](https://arxiv.org/abs/2206.10358) was accepted in the SPLC conference! 
