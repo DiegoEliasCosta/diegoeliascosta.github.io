@@ -21,6 +21,15 @@ classes: "wide"
 
 ## 2022
 
+- - **Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Patrick Ayoup, Diego Elias Costa, Emad Shihab.  <br>
+	<i class="fa fa-book"></i> In FSE'22: Symposium on the Foundations of Software Engineering, Industry Track, 2022. <br>
+	</font> 
+	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2207.14711.pdf){:target="_blank"} -->
+	<!-- <i class="fa fa-database"></i> [Dataset](https://doi.org/10.5281/zenodo.4892300){:target="_blank"} -->
+
+
 - **Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Jasmine Latendresse, Suhaib Mujahid, Diego Elias Costa, Emad Shihab.  <br>

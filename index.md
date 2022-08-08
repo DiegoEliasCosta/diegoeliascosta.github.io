@@ -32,8 +32,9 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Aug 2022: Our paper ["Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry"] was accepted in the ESEC/FSE indutry track! Pre-print coming soon. 
 - Aug 2022: New chapter of my academic career! I will join the Computer Science Department of Université du Québec à Montréal (UQAM) as a tenure-track assistant professor!   
-- July 2022: Our paper ["Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM"](https://arxiv.org/pdf/2207.14711.pdf) was accepted in the ASE conference! Pre-print coming soon.
+- July 2022: Our paper ["Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM"](https://arxiv.org/pdf/2207.14711.pdf) was accepted in the ASE conference!
 - July 2022: I will be the co-chair of the Data Challenge Track of ICPE 2023! Stay tuned for more info. 
 - Jun 2022: Our paper ["Open Source Software: An Approach to Controlling Usage and Risk in Application Ecosystems"](https://arxiv.org/abs/2206.10358) was accepted in the SPLC conference! 
 - Apr 2022: Our paper ["On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests"](https://arxiv.org/abs/2110.15447) was accepted in the TOSEM journal!
