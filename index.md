@@ -12,7 +12,7 @@ author_profile: true
 
 Hi, I am Diego and welcome to my academic space!
 
-I am an assistant professor in the Computer Science department at [UQAM](www.uqam.ca) in Montréal, Canada. I am also part of the [LATECE](http://latece.uqam.ca/) reserch group. 
+I am an assistant professor in the Computer Science department at [UQAM](www.uqam.ca) in Montréal, Canada. I am also part of the [LATECE](http://latece.uqam.ca/) research group. 
 
 Before that, I was a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working with Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. I received my PhD from Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
 
