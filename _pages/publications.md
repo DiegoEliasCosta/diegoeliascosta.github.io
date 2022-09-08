@@ -21,7 +21,7 @@ classes: "wide"
 
 ## 2022
 
-- - **Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry** <br>
+- **Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Patrick Ayoup, Diego Elias Costa, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> In FSE'22: Symposium on the Foundations of Software Engineering, Industry Track, 2022. <br>
