@@ -21,13 +21,28 @@ classes: "wide"
 
 ## 2022
 
+- **Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
+	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+
+
+- **On the Discoverability of npm Vulnerabilities in Node.js Projects**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
+	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+
+
 - **Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Patrick Ayoup, Diego Elias Costa, Emad Shihab.  <br>
 	<i class="fa fa-book"></i> In FSE'22: Symposium on the Foundations of Software Engineering, Industry Track, 2022. <br>
 	</font> 
-	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2207.14711.pdf){:target="_blank"} -->
-	<!-- <i class="fa fa-database"></i> [Dataset](https://doi.org/10.5281/zenodo.4892300){:target="_blank"} -->
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2208.05860.pdf){:target="_blank"} 
 
 
 - **Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM** <br>
