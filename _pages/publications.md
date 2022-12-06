@@ -21,15 +21,15 @@ classes: "wide"
 
 ## 2022
 
-- **Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?**
+- **Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?** <br>
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
-	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	<i class="fa fa-user-friends"></i>  Khaled Badran, Pierre-Olivier Cote, Amanda Kolopanis, Rached Bouchoucha, Antonio Collante, Diego Elias Costa, Emad Shihab, Foutse Khomh <br>
+	<i class="fa fa-book"></i> IEEE Computer, 2022. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+	<<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/Badran_Computer2022.pdf){:target="_blank"} 
 
 
-- **On the Discoverability of npm Vulnerabilities in Node.js Projects**
+- **On the Discoverability of npm Vulnerabilities in Node.js Projects** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
 	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
