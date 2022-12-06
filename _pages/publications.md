@@ -26,7 +26,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i>  Khaled Badran, Pierre-Olivier Cote, Amanda Kolopanis, Rached Bouchoucha, Antonio Collante, Diego Elias Costa, Emad Shihab, Foutse Khomh <br>
 	<i class="fa fa-book"></i> IEEE Computer, 2022. <br>
 	</font> 
-	<<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/Badran_Computer2022.pdf){:target="_blank"} 
+	<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/Badran_Computer2022.pdf){:target="_blank"} 
 
 
 - **On the Discoverability of npm Vulnerabilities in Node.js Projects** <br>
