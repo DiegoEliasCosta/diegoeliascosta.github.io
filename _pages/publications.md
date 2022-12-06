@@ -34,7 +34,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
 	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+	<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/../diegoeliascosta.github.io/papers/Alfadel_2022_Discoverability.pdf){:target="_blank"} 
 
 
 - **Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry** <br>
