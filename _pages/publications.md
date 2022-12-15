@@ -21,6 +21,14 @@ classes: "wide"
 
 ## 2022
 
+- **Empirical Analysis of Security Vulnerabilities in Python Packages**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>
+	<i class="fa fa-book"></i> EMSE journal, 2022. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+
+
 - **Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Khaled Badran, Pierre-Olivier Cote, Amanda Kolopanis, Rached Bouchoucha, Antonio Collante, Diego Elias Costa, Emad Shihab, Foutse Khomh <br>
