@@ -19,9 +19,18 @@ classes: "wide"
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
+## 2023
+
+- **Diversity Awareness in Software Engineering Participant Research**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Riya Dutta, Diego Elias Costa, Tanja Tajmel, Emad Shihab <br>
+	<i class="fa fa-book"></i> ICSE SEIS track, 2023. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+
 ## 2022
 
-- **Empirical Analysis of Security Vulnerabilities in Python Packages**
+- **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>
 	<i class="fa fa-book"></i> EMSE journal, 2022. <br>
