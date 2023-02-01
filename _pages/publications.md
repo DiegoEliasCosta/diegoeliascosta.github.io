@@ -21,7 +21,7 @@ classes: "wide"
 
 ## 2023
 
-- **Diversity Awareness in Software Engineering Participant Research**
+- **Diversity Awareness in Software Engineering Participant Research** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Riya Dutta, Diego Elias Costa, Tanja Tajmel, Emad Shihab <br>
 	<i class="fa fa-book"></i> ICSE SEIS track, 2023. <br>
