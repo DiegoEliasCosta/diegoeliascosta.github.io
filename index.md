@@ -32,7 +32,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- Dec 2022: Our paper "Diversity Awareness in Software Engineering Participant Research" was accepted at ICSE SEIS track! Pre-print coming soon
+- Dec 2022: Our paper ["Diversity Awareness in Software Engineering Participant Research"](https://www.researchgate.net/publication/367822157) was accepted at ICSE SEIS track! 
 - Dec 2022: Our paper "Empirical Analysis of Security Vulnerabilities in Python Packages" was acceped in the EMSE journal! Pre-print coming soon
 - Nov 2022: Our paper ["Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?"](../../papers/Badran_Computer2022.pdf){:target="_blank"} was accepted in the IEEE Computing journal! 
 - Oct 2022: Our paper ["On the Discoverability of npm Vulnerabilities in Node.js Projects"](https://dl.acm.org/doi/pdf/10.1145/3571848) was accepted in the TOSEM journal! 

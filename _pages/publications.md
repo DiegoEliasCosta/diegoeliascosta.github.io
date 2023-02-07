@@ -26,7 +26,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i>  Riya Dutta, Diego Elias Costa, Tanja Tajmel, Emad Shihab <br>
 	<i class="fa fa-book"></i> ICSE SEIS track, 2023. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/367822157){:target="_blank"}
 
 ## 2022
 
