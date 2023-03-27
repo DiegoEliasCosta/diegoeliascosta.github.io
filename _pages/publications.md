@@ -26,8 +26,11 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>
 	<i class="fa fa-book"></i> EMSE journal, 2023. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
-	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/367822157){:target="_blank"} -->
+	<!-- <i class="fa fa-file-pdf"></i> Pre-print coming soon! -->
+	<i class="fa fa-file-pdf"></i> [Share-Link](https://rdcu.be/c8r1k) <br>{:target="_blank"}
+	<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/Alfadel_EMSE2023.pdf){:target="_blank"}
+	
+
 
 
 - **Diversity Awareness in Software Engineering Participant Research** <br>
