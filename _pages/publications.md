@@ -21,6 +21,15 @@ classes: "wide"
 
 ## 2023
 
+- **Empirical analysis of security vulnerabilities in Python packages** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>
+	<i class="fa fa-book"></i> EMSE journal, 2023. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://www.researchgate.net/publication/367822157){:target="_blank"} -->
+
+
 - **Diversity Awareness in Software Engineering Participant Research** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Riya Dutta, Diego Elias Costa, Tanja Tajmel, Emad Shihab <br>
@@ -30,12 +39,12 @@ classes: "wide"
 
 ## 2022
 
-- **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
+<!-- - **Empirical Analysis of Security Vulnerabilities in Python Packages** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>
 	<i class="fa fa-book"></i> EMSE journal, 2022. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon!
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon! -->
 
 
 - **Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?** <br>
