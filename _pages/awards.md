@@ -5,6 +5,14 @@ title: "Grants and Awards"
 ---
 
 
+**[NSERC DISCOVERY Grant](https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp)** <span style="float:right;"> *2023-27* </span>
+    <br> Grant awarded for the research program "Proactive Dependency Manafement".
+
+
+**[NSERC CREATE SE4AI](https://se4ai.org/team)** <span style="float:right;"> *2022-27* </span>
+    <br> Grant awarded for the training programa Software Engineering for AI systems.   
+
+
 **[Horizon Postdoctoral Fellowship](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon.html)** <span style="float:right;"> *2019-21* </span>
     <br> Scholarship awarded for Postdoctoral research in the DAS Lab.  
 
