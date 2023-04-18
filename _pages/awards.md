@@ -9,8 +9,8 @@ title: "Grants and Awards"
     <br> Grant awarded for the research program "Proactive Dependency Manafement".
 
 
-**[NSERC CREATE SE4AI](https://se4ai.org/team)** <span style="float:right;"> *2022-27* </span>
-    <br> Grant awarded for the training programa Software Engineering for AI systems.   
+**[NSERC CREATE SE4AI](https://se4ai.org)** <span style="float:right;"> *2022-27* </span>
+    <br> Grant awarded as a Co-PI for the training program Software Engineering for AI systems.   
 
 
 **[Horizon Postdoctoral Fellowship](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon.html)** <span style="float:right;"> *2019-21* </span>
