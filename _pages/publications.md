@@ -21,6 +21,18 @@ classes: "wide"
 
 ## 2023
 
+- **Dependency Update Strategies and Package Characteristics** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>  Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem,  Emad Shihab <br>
+	<i class="fa fa-book"></i> TOSEM journal, 2023. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+	<!-- <i class="fa fa-file-pdf"></i> [Share-Link](https://rdcu.be/c8r1k) <br>{:target="_blank"}
+	<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/Alfadel_EMSE2023.pdf){:target="_blank"} -->
+	
+
+
+
 - **Empirical analysis of security vulnerabilities in Python packages** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab <br>

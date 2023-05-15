@@ -32,10 +32,11 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- May 2023: Our paper ["Dependency Update Strategies and Package Characteristics"]() was accepted in the TOSEM journal! Pre-print coming soon.
 - Apr 2023: I am thrilled to announce that I receive a NSERC Discovery grant to work on Dependency Management problems! Hiring of students will start soon!
 - Mar 2023: Our paper ["Empirical analysis of security vulnerabilities in Python packages"](https://link.springer.com/article/10.1007/s10664-022-10278-4) was published in the EMSE journal!
 - Dec 2022: Our paper ["Diversity Awareness in Software Engineering Participant Research"](https://www.researchgate.net/publication/367822157) was accepted at ICSE SEIS track! 
-- Dec 2022: Our paper "Empirical Analysis of Security Vulnerabilities in Python Packages" was acceped in the EMSE journal! Pre-print coming soon
+- Dec 2022: Our paper ["Empirical Analysis of Security Vulnerabilities in Python Packages"](../../papers/Alfadel_EMSE2023.pdf){} was acceped in the EMSE journal! Pre-print coming soon
 - Nov 2022: Our paper ["Can Ensembling Pre-processing Algorithms Lead to Better Machine Learning Fairness?"](../../papers/Badran_Computer2022.pdf){:target="_blank"} was accepted in the IEEE Computing journal! 
 - Oct 2022: Our paper ["On the Discoverability of npm Vulnerabilities in Node.js Projects"](https://dl.acm.org/doi/pdf/10.1145/3571848) was accepted in the TOSEM journal! 
 - Aug 2022: Our paper ["Achievement Unlocked: A Case Study on Gamifying DevOps Practices in Industry"](https://arxiv.org/abs/2208.05860) was accepted in the ESEC/FSE indutry track! 
