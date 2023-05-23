@@ -22,7 +22,7 @@ classes: "wide"
 ## 2023
 
 
-- **Empirical analysis of security-related code reviews in npm packages**
+- **Empirical analysis of security-related code reviews in npm packages** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Mahmoud Alfadel, Nicholas Alexandre Nagy, Diego Costa, Rabe Abdalkareem, Emad Shihab <br>
