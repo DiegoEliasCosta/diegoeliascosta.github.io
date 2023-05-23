@@ -32,7 +32,8 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- May 2023: Our paper ["Dependency Update Strategies and Package Characteristics"]() was accepted in the TOSEM journal! Pre-print coming soon.
+- May 2023: Our paper "Empirical analysis of security-related code reviews in npm packages" was accepted in the JSS journal! Pre-print coming soon.
+- May 2023: Our paper "Dependency Update Strategies and Package Characteristics" was accepted in the TOSEM journal! Pre-print coming soon.
 - Apr 2023: I am thrilled to announce that I receive a NSERC Discovery grant to work on Dependency Management problems! Hiring of students will start soon!
 - Mar 2023: Our paper ["Empirical analysis of security vulnerabilities in Python packages"](https://link.springer.com/article/10.1007/s10664-022-10278-4) was published in the EMSE journal!
 - Dec 2022: Our paper ["Diversity Awareness in Software Engineering Participant Research"](https://www.researchgate.net/publication/367822157) was accepted at ICSE SEIS track! 

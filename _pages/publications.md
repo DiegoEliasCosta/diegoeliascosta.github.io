@@ -21,6 +21,16 @@ classes: "wide"
 
 ## 2023
 
+
+- **Empirical analysis of security-related code reviews in npm packages**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	Mahmoud Alfadel, Nicholas Alexandre Nagy, Diego Costa, Rabe Abdalkareem, Emad Shihab <br>
+	<i class="fa fa-book"></i> JSS journal, 2023. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+
+
 - **Dependency Update Strategies and Package Characteristics** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem,  Emad Shihab <br>
