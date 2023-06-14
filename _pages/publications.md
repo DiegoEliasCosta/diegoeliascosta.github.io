@@ -36,7 +36,7 @@ classes: "wide"
 	<i class="fa fa-user-friends"></i>  Abbas Jafari, Diego Elias Costa, Rabe Abdalkareem,  Emad Shihab <br>
 	<i class="fa fa-book"></i> TOSEM journal, 2023. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2305.15675.pdf){:target="_blank"} -->
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2305.15675.pdf){:target="_blank"}
 	
 
 - **Empirical analysis of security vulnerabilities in Python packages** <br>
