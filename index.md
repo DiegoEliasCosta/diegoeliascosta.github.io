@@ -32,6 +32,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- Jun 2023: Our paper ["An Empirical Study on Bugs Inside PyTorch: A Replication Study"] was accepted at ICSME 2023! Pre-print coming soon.
 - May 2023: Our paper "Empirical analysis of security-related code reviews in npm packages" was accepted in the JSS journal! Pre-print coming soon.
 - May 2023: Our paper ["Dependency Update Strategies and Package Characteristics"](https://arxiv.org/pdf/2305.15675.pdf) was accepted in the TOSEM journal!
 - Apr 2023: I am thrilled to announce that I receive a NSERC Discovery grant to work on Dependency Management problems! Hiring of students will start soon!

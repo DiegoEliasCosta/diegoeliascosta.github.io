@@ -22,6 +22,15 @@ classes: "wide"
 ## 2023
 
 
+- **An Empirical Study on Bugs Inside PyTorch: A Replication Study** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	Sharon Ho, Vahid Majdinasab, Mohayeminul Islam, Diego Elias Costa, Emad Shihab, Foutse Khomh, Sarah Nadi, Muhammad Raza  <br>
+	<i class="fa fa-book"></i> In ICSME'23: International Conference on Software Maintenance and Evolution. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+
+
 - **Empirical analysis of security-related code reviews in npm packages** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
@@ -77,7 +86,7 @@ classes: "wide"
 - **On the Discoverability of npm Vulnerabilities in Node.js Projects** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>  Mahmoud Alfadel, Diego Elias Costa, Emad Shihab, Bram Adams.  <br>
-	<i class="fa fa-book"></i> CM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
+	<i class="fa fa-book"></i> ACM Transactions on Software Engineering and Methodology (TOSEM), 2022. <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print](../../papers/../diegoeliascosta.github.io/papers/Alfadel_2022_Discoverability.pdf){:target="_blank"} 
 
