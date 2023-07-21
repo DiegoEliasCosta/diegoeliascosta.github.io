@@ -21,6 +21,13 @@ classes: "wide"
 
 ## 2023
 
+- **Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem** <br>
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab  <br>
+	<i class="fa fa-book"></i> In ASE'23: Automated Software Engineering. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
 
 - **An Empirical Study on Bugs Inside PyTorch: A Replication Study** <br>
 	<font size="3"> 
