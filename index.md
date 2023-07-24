@@ -12,7 +12,9 @@ author_profile: true
 
 Hi, I am Diego and welcome to my academic space!
 
-I am an assistant professor in the Computer Science department at [UQAM](www.uqam.ca) in Montréal, Canada. I am also part of the [LATECE](http://latece.uqam.ca/) research group. 
+This Fall, I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html) of [Concordia University](https://www.concordia.ca/) as an Assistant Professor in Software Engineering. 
+Before, I worked with the Computer Science department at [UQAM](www.uqam.ca) in Montréal, Canada. 
+<!-- I am also part of the [LATECE](http://latece.uqam.ca/) research group.  -->
 
 Before that, I was a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working with Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. I received my PhD from Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
 
@@ -32,6 +34,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- July 2023: New chapter of my academic career! I am thrilled to announce that I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/) as a tenure-track assistant professor!
 - July 2023: Our paper "Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem" was accepted at ASE 2023! Pre-print coming soon. 
 - Jun 2023: Our paper "An Empirical Study on Bugs Inside PyTorch: A Replication Study" was accepted at ICSME 2023! Pre-print coming soon.
 - May 2023: Our paper "Empirical analysis of security-related code reviews in npm packages" was accepted in the JSS journal! Pre-print coming soon.
