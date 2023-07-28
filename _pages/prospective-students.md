@@ -18,7 +18,7 @@ I am always on the lookout for hiring self-motivated MSc and PhD students to wor
 
 A few good reasons to join our lab:
 - You will be working on indutry-relevant problems that have a direct impact on the software industry.
-- Montreal is one of the best cities to study in the world.
+- Montreal is one of the best cities to [study](https://www.topuniversities.com/city-rankings/2023){:target="_blank"} in the world.
 - Concordia University is one of the [top young universities (under 50 years old) in North America.](https://www.concordia.ca/news/stories/2022/02/25/concordia-remains-tops-under-50-in-canada.html?c=/news/archive){:target="_blank"}.
 <!-- - The research done in the CSSE department [Software Engineering research is one of the best  in the last few years](https://csrankings.org/#/index?soft&ca){:target="_blank"}. -->
 
