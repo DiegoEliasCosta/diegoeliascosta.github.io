@@ -12,7 +12,7 @@ I am always on the lookout for hiring self-motivated MSc and PhD students to wor
 - **Software Engineering for AI systems.** AI systems are increasingly becoming part of our daily lives. How can we help software developers to build more reliable AI systems?
 
 
-**Disclaimer** While we do use AI methods to understand large amounts of data, and to propose intelligent solutions, my research is **not focused in developping AI methods**. We use AI/ML/LLMs to help software developpers at delivering better quality software. If you are looking for a group that is specialized in AI research, this is not the right research group for you.
+> **Disclaimer** In our research we do use AI methods to understand large amounts of data, propose intelligent solutions, or as an application for software engineering techniques. However, our research is **not focused in developping AI methods**. We use AI/ML/LLMs to help software developpers at delivering better quality software. If you are looking for a group that is specialized in AI research, this is not the right research group for you.
 
 
 ## Why join?

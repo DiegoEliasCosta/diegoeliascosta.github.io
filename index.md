@@ -14,6 +14,8 @@ Hi, I am Diego and welcome to my academic space!
 
 This Fall, I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} of [Concordia University](https://www.concordia.ca/){:target="_blank"} as an Assistant Professor in Software Engineering. 
 
+> - If you are interested in joining my research group, please check the [prospective students](/prospective-students/){:target="_blank"} page.
+
 <!-- I am also part of the [LATECE](http://latece.uqam.ca/) research group.  -->
 Before, I worked as an Assistant Professor with the Computer Science department at [UQAM](www.uqam.ca){:target="_blank"} in Montréal, Canada. 
 I was a postdoctoral researcher at [Concordia University](https://www.concordia.ca/){:target="_blank"}, Canada, working with Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/){:target="_blank"}. I received my PhD from Heidelberg University, Germany in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/){:target="_blank"} of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/){:target="_blank"}. 
