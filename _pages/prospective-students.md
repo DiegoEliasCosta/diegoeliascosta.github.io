@@ -5,10 +5,10 @@ classes: "wide"
 ---
 
 
-I am always on the lookout for hiring self-motivated MSc and PhD students to work on topics related to software engineering. Currently, I am focused on three major research topics:
+I am always on the lookout for hiring self-motivated MSc and PhD students to work on topics related to software engineering. You can see our research in detail in the [Publications](./publications.md){:target="_blank"}. Currently, I am focused on three major research topics:
 - **Dependency Management.** How to help software maintainers at reusing open source libraries without risking the quality, security and stability of their systems?  
 - **Performance Regression Testing.** How can we help software developers identify when their systems are slower, consume more energy, or use more memory than before?
-- **Software Engineering for AI systems.** AI systems are increasingly becoming part of our daily lives. How can we help software developers to build more reliable AI systems?
+- **Engineering AI systems.** AI systems are increasingly becoming part of our daily lives. How can we help software developers to build more reliable AI systems?
 
 
 > **Disclaimer** In our research we do use AI methods to understand large amounts of data, propose intelligent solutions, or as an application for software engineering techniques. However, our research is **not focused in developping AI methods**. We use AI/ML/LLMs to help software developpers at delivering better quality software. If you are looking for a group that is specialized in AI research, this is not the right research group for you.
