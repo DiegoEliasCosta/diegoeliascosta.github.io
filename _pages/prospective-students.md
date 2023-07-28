@@ -4,7 +4,6 @@ title: "Prospective Students"
 classes: "wide"
 ---
 
-## The research we do
 
 I am always on the lookout for hiring self-motivated MSc and PhD students to work on topics related to software engineering. Currently, I am focused on three major research topics:
 - **Dependency Management.** How to help software maintainers at reusing open source libraries without risking the quality, security and stability of their systems?  
