@@ -26,16 +26,14 @@ A few good reasons to join our lab:
 
 ## How to apply?
 
-**Qualifications:** 
-- Strong programming, problem-solving and communication skills. 
+**Qualifications:** Strong programming, problem-solving and communication skills. 
 - A degree in computer science, computer engineering or software engineering is expected. However, if you have a major in adjacent areas (e.g., electrical engineering, mathematics, physics) and have a strong programming background, you are also encouraged to apply. If you come from a completely different area, you should justify (with strong arguments) in your cover letter why you want to switch to software engineering.
-- 
 
 If you are interested in joining my research group, please contact (diego.costa [at] concordia.ca) and include:
-- Your CV
-- Brief cover letter including: your research interests, outline of previous research experience, preferred start date. You get a bonus point if you include which research topic you are interested on, or which papers from our group has caught your attention (see [Publications](./publications.md){:target="_blank"}).
-- Unofficial transcripts
-- (Optional) Sample of your papers (if you have any)
+> - Your CV
+> - Brief cover letter including: your research interests, outline of previous research experience, preferred start date. You get a bonus point if you include which research topic you are interested on, or which papers from our group has caught your attention (see [Publications](./publications.md){:target="_blank"}).
+> - Unofficial transcripts
+> - (Optional) Sample of your papers (if you have any)
 
 Important tips:
 - Make sure to show in your email that you are actually interested in our work. Generic application e-mails (especially those that are addressed to multiple professors!) **will be ignored**.
