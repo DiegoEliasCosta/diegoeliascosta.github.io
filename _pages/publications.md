@@ -36,7 +36,7 @@ classes: "wide"
 	Sharon Ho, Vahid Majdinasab, Mohayeminul Islam, Diego Elias Costa, Emad Shihab, Foutse Khomh, Sarah Nadi, Muhammad Raza  <br>
 	<i class="fa fa-book"></i> In ICSME'23: International Conference on Software Maintenance and Evolution. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2307.13777.pdf){:target="_blank"}
 
 
 - **Empirical analysis of security-related code reviews in npm packages** <br>
