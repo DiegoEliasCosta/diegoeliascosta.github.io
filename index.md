@@ -36,6 +36,7 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- August 2023: Our paper ["Understanding the Helpfulness of Stale Bot for Pull-based Development"](https://arxiv.org/abs/2305.18150){:target="_blank"}" was accepted in the TOSEM journal! 
 - July 2023: New chapter of my academic career! I am thrilled to announce that I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/) as a tenure-track assistant professor!
 - July 2023: Our paper "Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem" was accepted at ASE 2023! Pre-print coming soon. 
 - Jun 2023: Our paper ["An Empirical Study on Bugs Inside PyTorch: A Replication Study"](https://arxiv.org/abs/2307.13777){:target="_blank"} was accepted at ICSME 2023! Pre-print coming soon.

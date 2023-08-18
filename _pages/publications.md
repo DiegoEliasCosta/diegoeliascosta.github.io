@@ -21,6 +21,15 @@ classes: "wide"
 
 ## 2023
 
+- **Understanding the Helpfulness of Stale Bot for Pull-based Development**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	SayedHassan Khatoonabadi, Diego Elias Costa, Suhaib Mujahid, Emad Shihab  <br>
+	<i class="fa fa-book"></i> TOSEM journal, 2023. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2305.18150.pdf){:target="_blank"} <br>
+
+
 - **Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
