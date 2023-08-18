@@ -21,7 +21,7 @@ classes: "wide"
 
 ## 2023
 
-- **Understanding the Helpfulness of Stale Bot for Pull-based Development**
+- **Understanding the Helpfulness of Stale Bot for Pull-based Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	SayedHassan Khatoonabadi, Diego Elias Costa, Suhaib Mujahid, Emad Shihab  <br>
