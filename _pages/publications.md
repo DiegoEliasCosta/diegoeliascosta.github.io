@@ -45,7 +45,7 @@ classes: "wide"
 	Mahmoud Alfadel, Nicholas Alexandre Nagy, Diego Costa, Rabe Abdalkareem, Emad Shihab <br>
 	<i class="fa fa-book"></i> JSS journal, 2023. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+	<i class="fa fa-file-pdf"></i> [Elsevier](https://www.sciencedirect.com/science/article/pii/S0164121223001474){:target="_blank"} <br>
 
 
 - **Dependency Update Strategies and Package Characteristics** <br>
