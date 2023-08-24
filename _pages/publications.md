@@ -36,7 +36,7 @@ classes: "wide"
 	Suhaib Mujahid, Diego Elias Costa, Rabe Abdalkareem, Emad Shihab  <br>
 	<i class="fa fa-book"></i> In ASE'23: IEEE/ACM International Conference on Automated Software Engineering. <br>
 	</font> 
-	<i class="fa fa-file-pdf"></i> Pre-print coming soon! <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/pdf/2308.08667.pdf){:target="_blank"} <br>
 
 
 - **An Empirical Study on Bugs Inside PyTorch: A Replication Study** <br>
