@@ -21,6 +21,15 @@ classes: "wide"
 
 ## 2023
 
+
+- **SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	Ahmad Abdellatif, Gita Ghiasi, Diego Elias Costa, Tanja Tajmel, Emad Shihab  <br>
+	<i class="fa fa-book"></i> IEEE Software journal, Software Engineering Educating and Training, 2023. <br>
+	</font> 
+	<!-- <i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2305.18150.pdf){:target="_blank"} <br> -->
+
 - **Understanding the Helpfulness of Stale Bot for Pull-based Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
