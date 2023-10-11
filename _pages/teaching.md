@@ -5,7 +5,9 @@ title: "Teaching"
 ---
 
 ## Teaching Courses
-- [Engineering AI-based software systems](https://github.com/create-se4ai/engineering-ai-systems-course) <span style="float:right;"> *winter 2022* </span>
+- COMP 352: Data Structures and Algorithms <span style="float:right;"> *fall 2023* </span>
+- [MGL 7811: Ingénierie des systèmes d’intelligence artificielle](https://github.com/create-se4ai/engineering-ai-systems-course/tree/mgl7811-winter-2023) <span style="float:right;"> *winter 2023* </span>
+- [SOEN 691: Engineering AI-based software systems](https://github.com/create-se4ai/engineering-ai-systems-course) <span style="float:right;"> *winter 2022* </span>
 
 ## Teaching Assistant
 
