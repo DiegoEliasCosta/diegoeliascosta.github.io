@@ -12,7 +12,7 @@ author_profile: true
 
 Hi, I am Diego and welcome to my academic space!
 
-This Fall, I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} of [Concordia University](https://www.concordia.ca/){:target="_blank"} as an Assistant Professor in Software Engineering. 
+I am an Assistant Professor at the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} of [Concordia University](https://www.concordia.ca/){:target="_blank"}. 
 
 > - If you are interested in joining my research group, please check the [prospective students](/prospective-students/){:target="_blank"} page.
 
@@ -36,6 +36,9 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- January 2024: Our paper ["The role of library versions in Developer-ChatGPT conversations"]() was accepted at the MSR 2024 Mining Challenge track! Pre-print coming soon.
+- January 2024: Our paper ["Predicting the Impact of Crashes Across Release Channels"]() was accepted in the Industry Track of MSR 2024! Pre-print coming soon.
+- December 2023: I will be part of the program committee of [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"}.
 - October 2023: Our paper ["SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems"](https://ieeexplore.ieee.org/abstract/document/10274712) was accepted at the IEEE Software journal. 
 - August 2023: Our paper ["Understanding the Helpfulness of Stale Bot for Pull-based Development"](https://arxiv.org/abs/2305.18150){:target="_blank"}" was accepted in the TOSEM journal! 
 - July 2023: New chapter of my academic career! I am thrilled to announce that I will be joining the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/) as a tenure-track assistant professor!
