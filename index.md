@@ -12,7 +12,8 @@ author_profile: true
 
 Hi, I am Diego and welcome to my academic space!
 
-I am an Assistant Professor at the [CSSE department](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} of [Concordia University](https://www.concordia.ca/){:target="_blank"}. 
+I am an Assistant Professor in the [Computer Science and Software Engineering (CSSE)](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} department of Concordia University](https://www.concordia.ca/){:target="_blank"}
+
 
 > - If you are interested in joining my research group, please check the [prospective students](/prospective-students/){:target="_blank"} page.
 
