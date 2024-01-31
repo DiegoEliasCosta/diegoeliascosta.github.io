@@ -19,8 +19,27 @@ classes: "wide"
 	``Empirical analysis of security vulnerabilities in python packages''.
 	Submitted to SANER'21: International Conference on Software Analysis, Evolution and Reengineering. 2020. -->
 
-## 2023
+## 2024
 
+- - **The role of library versions in Developer-ChatGPT conversations**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	Rachna Raj, Diego Elias Costa  <br>
+	<i class="fa fa-book"></i>  MSR 2024 Mining Challenge, 2024. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2401.16340){:target="_blank"} <br> 
+
+
+- - **Predicting the Impact of Crashes Across Release Channels**
+	<font size="3"> 
+	<i class="fa fa-user-friends"></i>
+	uhaib Mujahid, Diego Elias Costa, Marco Castelluccio  <br>
+	<i class="fa fa-book"></i>  MSR 2024 Industrial Track, 2024. <br>
+	</font> 
+	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2401.13667){:target="_blank"} <br> 
+
+
+## 2023
 
 - **SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems**
 	<font size="3"> 
