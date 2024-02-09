@@ -21,7 +21,7 @@ classes: "wide"
 
 ## 2024
 
-- - **The role of library versions in Developer-ChatGPT conversations**
+- **The role of library versions in Developer-ChatGPT conversations** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Rachna Raj, Diego Elias Costa  <br>
@@ -30,7 +30,7 @@ classes: "wide"
 	<i class="fa fa-file-pdf"></i> [Pre-print](https://arxiv.org/abs/2401.16340){:target="_blank"} <br> 
 
 
-- - **Predicting the Impact of Crashes Across Release Channels**
+- **Predicting the Impact of Crashes Across Release Channels** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	uhaib Mujahid, Diego Elias Costa, Marco Castelluccio  <br>
@@ -41,7 +41,7 @@ classes: "wide"
 
 ## 2023
 
-- **SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems**
+- **SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Ahmad Abdellatif, Gita Ghiasi, Diego Elias Costa, Tanja Tajmel, Emad Shihab  <br>
