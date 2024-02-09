@@ -37,8 +37,8 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
-- January 2024: Our paper ["The role of library versions in Developer-ChatGPT conversations"]() was accepted at the MSR 2024 Mining Challenge track! Pre-print coming soon.
-- January 2024: Our paper ["Predicting the Impact of Crashes Across Release Channels"]() was accepted in the Industry Track of MSR 2024! Pre-print coming soon.
+- January 2024: Our paper ["The role of library versions in Developer-ChatGPT conversations"](https://arxiv.org/abs/2401.16340) was accepted at the MSR 2024 Mining Challenge track! 
+- January 2024: Our paper ["Predicting the Impact of Crashes Across Release Channels"](https://arxiv.org/abs/2401.13667) was accepted in the Industry Track of MSR 2024! 
 - December 2023: I will be part of the program committee of [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"}.
 - October 2023: Our paper ["SE4AI: A Training Program Considering Technical, Social, and Professional Aspects of AI-based Software Systems"](https://ieeexplore.ieee.org/abstract/document/10274712) was accepted at the IEEE Software journal. 
 - August 2023: Our paper ["Understanding the Helpfulness of Stale Bot for Pull-based Development"](https://arxiv.org/abs/2305.18150){:target="_blank"}" was accepted in the TOSEM journal! 
