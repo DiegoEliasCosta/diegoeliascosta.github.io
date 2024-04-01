@@ -5,6 +5,7 @@ classes: "wide"
 ---
 
 ## Teaching Courses
+- SOEN 692: Generative Artificial Intelligence for Software Engineering <span style="float:right;"> *winter 2024* </span>
 - COMP 352: Data Structures and Algorithms <span style="float:right;"> *fall 2023* </span>
 - [MGL 7811: Ingénierie des systèmes d’IAntelligence artificielle](https://github.com/create-se4ai/engineering-ai-systems-course/tree/mgl7811-winter-2023) <span style="float:right;"> *winter 2023* </span>
 - [SOEN 691: Engineering AI-based software systems](https://github.com/create-se4ai/engineering-ai-systems-course) <span style="float:right;"> *winter 2022* </span>
