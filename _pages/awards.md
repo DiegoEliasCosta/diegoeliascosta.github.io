@@ -4,6 +4,8 @@ title: "Grants and Awards"
 #classes: "wide"
 ---
 
+**[FRQNT Support for New Academics Grant](https://frq.gouv.qc.ca/en/program/research-support-for-new-academics-frqnt/)** <span style="float:right;"> *2024-25* </span>
+    <br> Grant awarded for the research program "Harnessing Software Ecosystems to Support Library Maintainers".
 
 **[NSERC DISCOVERY Grant](https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp)** <span style="float:right;"> *2023-27* </span>
     <br> Grant awarded for the research program "Proactive Dependency Management".
