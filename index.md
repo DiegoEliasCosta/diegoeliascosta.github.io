@@ -37,6 +37,8 @@ For details about my research, please check my [publication list](/publications/
 
 ## News
 
+- May 2024: I am thrilled to announce that FRQNT has funded my research program "Harnessing Software Ecosystems to Support Library Maintainers", as part of the Support for New Academics program. 
+- April 2024: Rachna received the Best Student Presentation Award at MSR for her presentation on the work  ["The role of library versions in Developer-ChatGPT conversations"](https://arxiv.org/abs/2401.16340). Congratulations Rachna!
 - January 2024: Our paper ["The role of library versions in Developer-ChatGPT conversations"](https://arxiv.org/abs/2401.16340) was accepted at the MSR 2024 Mining Challenge track! 
 - January 2024: Our paper ["Predicting the Impact of Crashes Across Release Channels"](https://arxiv.org/abs/2401.13667) was accepted in the Industry Track of MSR 2024! 
 - December 2023: I will be part of the program committee of [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"}.
