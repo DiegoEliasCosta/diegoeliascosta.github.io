@@ -17,7 +17,7 @@ Hi, I am Diego and this was my academic space. Please visit my group's lab websi
 I am an Assistant Professor in the [Computer Science and Software Engineering (CSSE)](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} department of [Concordia University](https://www.concordia.ca/){:target="_blank"}
 
 
-> - If you are interested in joining my research group, please check the [prospective students](/prospective-students/){:target="_blank"} page.
+> - If you are interested in joining my research group, please check the [prospective students](https://realiselab.github.io/apply){:target="_blank"} page.
 
 <!-- I am also part of the [LATECE](http://latece.uqam.ca/) research group.  -->
 Before, I worked as an Assistant Professor with the Computer Science department at [UQAM](www.uqam.ca){:target="_blank"} in Montréal, Canada. 
