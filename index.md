@@ -10,7 +10,7 @@ author_profile: true
 
 <br>
 
-Hi, I am Diego and this was my academic space. Please visit my group's lab website [REALISELab](https://realiselab.github.io/apply) as this website will no longer be updated. 
+Hi, I am Diego and this was my academic space. Please visit my group's lab website [REALISELab](https://realiselab.github.io/){:target="_blank"} as this website will no longer be updated. 
 
 
 
