@@ -10,7 +10,9 @@ author_profile: true
 
 <br>
 
-Hi, I am Diego and welcome to my academic space!
+Hi, I am Diego and this was my academic space. Please visit my group's lab website [REALISELab](https://realiselab.github.io/apply) as this website will no longer be updated. 
+
+
 
 I am an Assistant Professor in the [Computer Science and Software Engineering (CSSE)](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"} department of [Concordia University](https://www.concordia.ca/){:target="_blank"}
 
